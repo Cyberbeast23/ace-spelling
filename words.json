@@ -1,0 +1,20 @@
+{
+  "about": "Daily grade 5 spelling lists for Ace (Canadian spelling). To add a day, append one object to \"lists\": {\"date\": \"YYYY-MM-DD\", \"words\": [{\"word\", \"definition\", \"sentence\", optional \"syllables\" like \"ad-ven-ture\"}]}.",
+  "lists": [
+    {
+      "date": "2026-09-28",
+      "words": [
+        {"word": "adventure", "syllables": "ad-ven-ture", "definition": "an exciting or unusual experience", "sentence": "Our camping trip in the mountains was a real adventure."},
+        {"word": "believe", "syllables": "be-lieve", "definition": "to think something is true", "sentence": "I believe our team can win the game on Saturday."},
+        {"word": "curious", "syllables": "cu-ri-ous", "definition": "wanting to learn or know more about something", "sentence": "The curious puppy sniffed every corner of the yard."},
+        {"word": "discover", "syllables": "dis-cov-er", "definition": "to find or learn something for the first time", "sentence": "Scientists hope to discover new kinds of fish in the deep ocean."},
+        {"word": "enormous", "syllables": "e-nor-mous", "definition": "very, very big", "sentence": "The blue whale is an enormous animal, even bigger than a dinosaur."},
+        {"word": "favourite", "syllables": "fa-vour-ite", "definition": "the one you like best", "sentence": "Pizza is my favourite food for Friday dinner."},
+        {"word": "knowledge", "syllables": "knowl-edge", "definition": "the things you know and have learned", "sentence": "Reading books every day grows your knowledge."},
+        {"word": "mystery", "syllables": "mys-ter-y", "definition": "something that is hard to understand or explain", "sentence": "Where my missing sock went is a total mystery."},
+        {"word": "neighbour", "syllables": "neigh-bour", "definition": "a person who lives next to or near you", "sentence": "Our neighbour waves hello every morning."},
+        {"word": "separate", "syllables": "sep-a-rate", "definition": "to split apart, or kept apart", "sentence": "Please separate the recycling from the garbage."}
+      ]
+    }
+  ]
+}

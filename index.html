@@ -1,0 +1,111 @@
+<!doctype html>
+<html lang="en-CA">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Ace's Spelling Quest</title>
+<meta name="theme-color" content="#6c4cf5">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🚀</text></svg>">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="topbar">
+  <div class="brand">🚀 <span>Spelling Quest</span></div>
+  <nav>
+    <button class="tab active" data-view="home" id="tab-home">🏠 Play</button>
+    <button class="tab" data-view="progress" id="tab-progress">⭐ Progress</button>
+  </nav>
+</header>
+
+<main>
+  <!-- HOME -->
+  <section id="view-home" class="view active">
+    <h1 class="greet">Hi Ace! 👋</h1>
+    <p class="sub" id="home-sub">Ready to spell some words?</p>
+    <div class="level-badge" id="level-badge"></div>
+    <div class="modes">
+      <button class="mode-card today" data-mode="today" id="btn-today">
+        <span class="emoji">📅</span><span class="title">Today's Words</span><span class="desc" id="today-desc">Practise today's list</span>
+      </button>
+      <button class="mode-card review" data-mode="review" id="btn-review">
+        <span class="emoji">🔁</span><span class="title">Review</span><span class="desc">Mix of earlier words, extra practice on tricky ones</span>
+      </button>
+      <button class="mode-card challenge" data-mode="challenge" id="btn-challenge">
+        <span class="emoji">🏆</span><span class="title">Challenge</span><span class="desc" id="challenge-desc">The hardest words — bonus points!</span>
+      </button>
+    </div>
+    <div class="pick-day" id="pick-day-wrap" hidden>
+      <label for="pick-day">Or practise an earlier list:</label>
+      <select id="pick-day"></select>
+      <button class="small-btn" id="btn-pick-day">Go</button>
+    </div>
+    <p class="speech-warn" id="speech-warn" hidden>🔇 This browser can't read words aloud. Ask a grown-up to read the word, or try Chrome or Safari.</p>
+  </section>
+
+  <!-- QUIZ -->
+  <section id="view-quiz" class="view">
+    <div class="quiz-top">
+      <button class="small-btn" id="btn-quit">✖ Stop</button>
+      <div class="progress-bar"><div id="quiz-bar"></div></div>
+      <div class="pts">⭐ <span id="quiz-points">0</span></div>
+    </div>
+    <p class="note" id="quiz-note" hidden></p>
+    <div class="card" id="quiz-card">
+      <div class="tag" id="quiz-tag"></div>
+      <div class="timer" id="timer-wrap" hidden><div id="timer-bar"></div><span id="timer-text"></span></div>
+      <div class="speak-row">
+        <button class="speak big" id="btn-say-word">🔊 Hear word</button>
+        <button class="speak" id="btn-say-sentence">💬 Sentence</button>
+        <button class="speak" id="btn-say-slow">🐢 Slow</button>
+      </div>
+      <p class="definition"><b>Meaning:</b> <span id="quiz-def"></span></p>
+      <p class="sentence" id="quiz-sentence"></p>
+      <div class="hints" id="hints"></div>
+      <div class="hint-out" id="hint-out"></div>
+      <form id="answer-form" autocomplete="off">
+        <input id="answer" type="text" inputmode="text" autocomplete="off" autocorrect="off" autocapitalize="none" spellcheck="false" placeholder="Type the word here" aria-label="Your spelling">
+        <button type="submit" class="go" id="btn-check">Check ✔</button>
+      </form>
+      <div class="feedback" id="feedback" hidden></div>
+      <button class="go next" id="btn-next" hidden>Next ➜</button>
+    </div>
+  </section>
+
+  <!-- RESULTS -->
+  <section id="view-results" class="view">
+    <div class="card center">
+      <div class="stars-big" id="res-stars"></div>
+      <h2 id="res-title">Great job, Ace!</h2>
+      <p id="res-summary"></p>
+      <div id="res-missed"></div>
+      <div class="res-actions">
+        <button class="go" id="btn-again">Play again</button>
+        <button class="small-btn" id="btn-home">Home</button>
+      </div>
+    </div>
+  </section>
+
+  <!-- PROGRESS -->
+  <section id="view-progress" class="view">
+    <h1>Your Progress ⭐</h1>
+    <div class="stats">
+      <div class="stat"><span class="num" id="p-points">0</span><span class="lbl">points</span></div>
+      <div class="stat"><span class="num" id="p-stars">0</span><span class="lbl">stars ⭐</span></div>
+      <div class="stat"><span class="num" id="p-streak">0</span><span class="lbl">day streak 🔥</span></div>
+      <div class="stat"><span class="num" id="p-mastered">0</span><span class="lbl">words mastered 🏅</span></div>
+    </div>
+    <p class="sub" id="p-accuracy"></p>
+    <h2>Tricky words 🧩</h2>
+    <ul class="tricky" id="p-tricky"></ul>
+    <h2>All words</h2>
+    <div class="word-chips" id="p-words"></div>
+    <p class="device-note">💾 Your progress is saved in this browser on this device only. Using a different phone, tablet or browser starts fresh.</p>
+    <button class="small-btn danger" id="btn-reset">Reset progress</button>
+  </section>
+</main>
+
+<div id="confetti" aria-hidden="true"></div>
+<script src="core.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
