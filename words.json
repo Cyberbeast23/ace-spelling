@@ -15,6 +15,21 @@
         {"word": "neighbour", "syllables": "neigh-bour", "definition": "a person who lives next to or near you", "sentence": "Our neighbour waves hello every morning."},
         {"word": "separate", "syllables": "sep-a-rate", "definition": "to split apart, or kept apart", "sentence": "Please separate the recycling from the garbage."}
       ]
+    },
+    {
+      "date": "2026-09-29",
+      "words": [
+        {"word": "skeleton", "syllables": "skel-e-ton", "definition": "the framework of bones that supports a body", "sentence": "An adult human skeleton usually has 206 bones."},
+        {"word": "fracture", "syllables": "frac-ture", "definition": "a crack or break in a bone", "sentence": "The X-ray showed a small fracture in Ace's wrist."},
+        {"word": "calcium", "syllables": "cal-ci-um", "definition": "a mineral that helps bones grow hard and strong", "sentence": "Milk, yogurt, and cheese are good sources of calcium."},
+        {"word": "cartilage", "syllables": "car-ti-lage", "definition": "a tough, flexible tissue that cushions joints and can harden into bone", "sentence": "The tip of your nose is made of cartilage, not bone."},
+        {"word": "marrow", "syllables": "mar-row", "definition": "the soft tissue inside bones that makes blood cells", "sentence": "Red marrow inside bones produces new blood cells every day."},
+        {"word": "ligament", "syllables": "lig-a-ment", "definition": "a strong band of tissue that holds bones together at a joint", "sentence": "A twisted ankle can stretch a ligament and make walking painful."},
+        {"word": "vertebra", "syllables": "ver-te-bra", "definition": "one of the small bones that form the spine", "sentence": "Each vertebra in the backbone helps protect the spinal cord."},
+        {"word": "posture", "syllables": "pos-ture", "definition": "the way a person holds their body when sitting or standing", "sentence": "Good posture keeps your spine healthier when you sit at a desk."},
+        {"word": "density", "syllables": "den-si-ty", "definition": "how tightly packed something is; for bones, how solid and strong they are", "sentence": "Exercise can increase bone density so bones break less easily."},
+        {"word": "mineral", "syllables": "min-er-al", "definition": "a natural substance, such as calcium, that the body uses to build strong bones", "sentence": "Bones store minerals that the body can use when it needs them."}
+      ]
     }
   ]
 }
