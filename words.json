@@ -30,6 +30,21 @@
         {"word": "density", "syllables": "den-si-ty", "definition": "how tightly packed something is; for bones, how solid and strong they are", "sentence": "Exercise can increase bone density so bones break less easily."},
         {"word": "mineral", "syllables": "min-er-al", "definition": "a natural substance, such as calcium, that the body uses to build strong bones", "sentence": "Bones store minerals that the body can use when it needs them."}
       ]
+    },
+    {
+      "date": "2026-09-30",
+      "words": [
+        {"word": "oxygen", "syllables": "ox-y-gen", "definition": "gas our lungs take from air", "sentence": "Ace needs oxygen every time he breathes."},
+        {"word": "inhale", "syllables": "in-hale", "definition": "breathe air in", "sentence": "Athletes inhale deeply before a race."},
+        {"word": "exhale", "syllables": "ex-hale", "definition": "breathe air out", "sentence": "Blow out the candle when you exhale."},
+        {"word": "diaphragm", "syllables": "di-a-phragm", "definition": "muscle under lungs that helps you breathe", "sentence": "Your diaphragm moves down when you inhale."},
+        {"word": "trachea", "syllables": "tra-che-a", "definition": "windpipe carrying air to the lungs", "sentence": "The trachea is the tube from your throat to your lungs."},
+        {"word": "capacity", "syllables": "ca-pac-i-ty", "definition": "how much something can hold", "sentence": "Lung capacity is measured in litres."},
+        {"word": "respiration", "syllables": "res-pi-ra-tion", "definition": "the process of breathing", "sentence": "Respiration brings oxygen into the body."},
+        {"word": "bronchial", "syllables": "bron-chi-al", "definition": "relating to the tubes in the lungs", "sentence": "Cold air can irritate the bronchial tubes."},
+        {"word": "vapour", "syllables": "va-pour", "definition": "gas form of a liquid (Canadian spelling)", "sentence": "Water vapour is invisible in the air."},
+        {"word": "pneumonia", "syllables": "pneu-mo-ni-a", "definition": "infection that inflames the lungs", "sentence": "Rest and medicine help people recover from pneumonia."}
+      ]
     }
   ]
 }
