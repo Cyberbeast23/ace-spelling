@@ -1,0 +1,12 @@
+[
+  {"word":"dinosaur","definition":"a large reptile that lived millions of years ago","sentence":"The museum displayed a dinosaur skeleton taller than a bus.","syllables":"di-no-saur"},
+  {"word":"fossil","definition":"remains or traces of ancient life preserved in rock","sentence":"Ace found a fossil of a fern leaf in the shale.","syllables":"fos-sil"},
+  {"word":"extinct","definition":"no longer living anywhere on Earth","sentence":"Dinosaurs became extinct about 66 million years ago.","syllables":"ex-tinct"},
+  {"word":"predator","definition":"an animal that hunts other animals for food","sentence":"Tyrannosaurus rex was a fierce predator with sharp teeth.","syllables":"pred-a-tor"},
+  {"word":"herbivore","definition":"an animal that eats only plants","sentence":"Triceratops was a herbivore that munched on ferns.","syllables":"her-bi-vore"},
+  {"word":"carnivore","definition":"an animal that eats mainly meat","sentence":"A carnivore needs sharp teeth to tear flesh.","syllables":"car-ni-vore"},
+  {"word":"prehistoric","definition":"from a time before written history","sentence":"Fossils help scientists study prehistoric life.","syllables":"pre-his-tor-ic"},
+  {"word":"excavate","definition":"to dig carefully in order to uncover something","sentence":"The team will excavate the dig site for more bones.","syllables":"ex-ca-vate"},
+  {"word":"palaeontology","definition":"the science of studying fossils (Canadian spelling)","sentence":"Palaeontology combines geology and biology to learn about extinct life.","syllables":"pa-lae-on-tol-o-gy"},
+  {"word":"Jurassic","definition":"a period of the Mesozoic Era when many dinosaurs lived","sentence":"Stegosaurus lived during the Jurassic Period.","syllables":"Ju-ras-sic"}
+]
