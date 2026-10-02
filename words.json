@@ -60,6 +60,21 @@
         {"word": "palaeontology", "syllables": "pa-lae-on-tol-o-gy", "definition": "the science of studying fossils (Canadian spelling)", "sentence": "Palaeontology combines geology and biology to learn about extinct life."},
         {"word": "Jurassic", "syllables": "Ju-ras-sic", "definition": "a period of the Mesozoic Era when many dinosaurs lived", "sentence": "Stegosaurus lived during the Jurassic Period."}
       ]
+    },
+    {
+      "date": "2026-10-02",
+      "words": [
+        {"word": "pyramid", "syllables": "pyr-a-mid", "definition": "a huge stone building with a square base and triangular sides, built in Ancient Egypt", "sentence": "The Great Pyramid of Giza still towers over the desert."},
+        {"word": "pharaoh", "syllables": "phar-aoh", "definition": "a king or queen who ruled Ancient Egypt", "sentence": "The pharaoh ordered a new temple beside the Nile."},
+        {"word": "desert", "syllables": "des-ert", "definition": "a very dry place with little rain and few plants", "sentence": "Camels crossed the hot desert under a bright sun."},
+        {"word": "ancient", "syllables": "an-cient", "definition": "from a time long ago in history", "sentence": "Ace read about ancient cities along the river."},
+        {"word": "temple", "syllables": "tem-ple", "definition": "a building used for worship of gods", "sentence": "Painted columns lined the entrance to the temple."},
+        {"word": "hieroglyph", "syllables": "hi-er-o-glyph", "definition": "a picture symbol used in Ancient Egyptian writing", "sentence": "Each hieroglyph on the wall told part of a story."},
+        {"word": "mummy", "syllables": "mum-my", "definition": "a body carefully preserved for the afterlife", "sentence": "The museum displayed a mummy in a decorated case."},
+        {"word": "civilisation", "syllables": "civ-i-li-sa-tion", "definition": "a complex society with cities, writing, and organised government (Canadian spelling)", "sentence": "The Nile helped Ancient Egyptian civilisation grow."},
+        {"word": "artefact", "syllables": "ar-te-fact", "definition": "an object made by people in the past (Canadian spelling)", "sentence": "The archaeologist cleaned each artefact with a soft brush."},
+        {"word": "monument", "syllables": "mon-u-ment", "definition": "a large structure built to honour a person, god, or event", "sentence": "The stone monument stood taller than nearby houses."}
+      ]
     }
   ]
 }

@@ -1,12 +1,12 @@
 [
-  {"word":"dinosaur","definition":"a large reptile that lived millions of years ago","sentence":"The museum displayed a dinosaur skeleton taller than a bus.","syllables":"di-no-saur"},
-  {"word":"fossil","definition":"remains or traces of ancient life preserved in rock","sentence":"Ace found a fossil of a fern leaf in the shale.","syllables":"fos-sil"},
-  {"word":"extinct","definition":"no longer living anywhere on Earth","sentence":"Dinosaurs became extinct about 66 million years ago.","syllables":"ex-tinct"},
-  {"word":"predator","definition":"an animal that hunts other animals for food","sentence":"Tyrannosaurus rex was a fierce predator with sharp teeth.","syllables":"pred-a-tor"},
-  {"word":"herbivore","definition":"an animal that eats only plants","sentence":"Triceratops was a herbivore that munched on ferns.","syllables":"her-bi-vore"},
-  {"word":"carnivore","definition":"an animal that eats mainly meat","sentence":"A carnivore needs sharp teeth to tear flesh.","syllables":"car-ni-vore"},
-  {"word":"prehistoric","definition":"from a time before written history","sentence":"Fossils help scientists study prehistoric life.","syllables":"pre-his-tor-ic"},
-  {"word":"excavate","definition":"to dig carefully in order to uncover something","sentence":"The team will excavate the dig site for more bones.","syllables":"ex-ca-vate"},
-  {"word":"palaeontology","definition":"the science of studying fossils (Canadian spelling)","sentence":"Palaeontology combines geology and biology to learn about extinct life.","syllables":"pa-lae-on-tol-o-gy"},
-  {"word":"Jurassic","definition":"a period of the Mesozoic Era when many dinosaurs lived","sentence":"Stegosaurus lived during the Jurassic Period.","syllables":"Ju-ras-sic"}
+  {"word":"pyramid","definition":"a huge stone building with a square base and triangular sides, built in Ancient Egypt","sentence":"The Great Pyramid of Giza still towers over the desert.","syllables":"pyr-a-mid"},
+  {"word":"pharaoh","definition":"a king or queen who ruled Ancient Egypt","sentence":"The pharaoh ordered a new temple beside the Nile.","syllables":"phar-aoh"},
+  {"word":"desert","definition":"a very dry place with little rain and few plants","sentence":"Camels crossed the hot desert under a bright sun.","syllables":"des-ert"},
+  {"word":"ancient","definition":"from a time long ago in history","sentence":"Ace read about ancient cities along the river.","syllables":"an-cient"},
+  {"word":"temple","definition":"a building used for worship of gods","sentence":"Painted columns lined the entrance to the temple.","syllables":"tem-ple"},
+  {"word":"hieroglyph","definition":"a picture symbol used in Ancient Egyptian writing","sentence":"Each hieroglyph on the wall told part of a story.","syllables":"hi-er-o-glyph"},
+  {"word":"mummy","definition":"a body carefully preserved for the afterlife","sentence":"The museum displayed a mummy in a decorated case.","syllables":"mum-my"},
+  {"word":"civilisation","definition":"a complex society with cities, writing, and organised government (Canadian spelling)","sentence":"The Nile helped Ancient Egyptian civilisation grow.","syllables":"civ-i-li-sa-tion"},
+  {"word":"artefact","definition":"an object made by people in the past (Canadian spelling)","sentence":"The archaeologist cleaned each artefact with a soft brush.","syllables":"ar-te-fact"},
+  {"word":"monument","definition":"a large structure built to honour a person, god, or event","sentence":"The stone monument stood taller than nearby houses.","syllables":"mon-u-ment"}
 ]
