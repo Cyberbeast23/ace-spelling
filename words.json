@@ -75,6 +75,21 @@
         {"word": "artefact", "syllables": "ar-te-fact", "definition": "an object made by people in the past (Canadian spelling)", "sentence": "The archaeologist cleaned each artefact with a soft brush."},
         {"word": "monument", "syllables": "mon-u-ment", "definition": "a large structure built to honour a person, god, or event", "sentence": "The stone monument stood taller than nearby houses."}
       ]
+    },
+    {
+      "date": "2026-10-03",
+      "words": [
+        {"word": "ocean", "syllables": "o-cean", "definition": "the vast body of salt water covering most of Earth", "sentence": "Ace read that the Pacific Ocean is the largest ocean on Earth."},
+        {"word": "current", "syllables": "cur-rent", "definition": "a continuous flow of water in the sea", "sentence": "A warm ocean current carried the raft north."},
+        {"word": "pressure", "syllables": "pres-sure", "definition": "the force pressing on something, often measured in Pascals", "sentence": "Water pressure rises as you dive deeper."},
+        {"word": "habitat", "syllables": "hab-i-tat", "definition": "the natural home of a plant or animal", "sentence": "Coral reefs are a rich habitat for fish."},
+        {"word": "plankton", "syllables": "plank-ton", "definition": "tiny drifting organisms that many sea animals eat", "sentence": "Whales filter plankton from the water."},
+        {"word": "submarine", "syllables": "sub-ma-rine", "definition": "a vessel that can travel underwater", "sentence": "The research submarine mapped the trench."},
+        {"word": "coastline", "syllables": "coast-line", "definition": "the land along the edge of the sea", "sentence": "Canada's coastline is one of the longest in the world."},
+        {"word": "buoyancy", "syllables": "buoy-an-cy", "definition": "the upward force that makes objects float", "sentence": "Buoyancy helps a life jacket keep you afloat."},
+        {"word": "abyss", "syllables": "a-byss", "definition": "a very deep part of the ocean", "sentence": "Creatures in the abyss live in near darkness."},
+        {"word": "sonar", "syllables": "so-nar", "definition": "a system that uses sound waves to find objects underwater", "sentence": "Scientists used sonar to locate the wreck."}
+      ]
     }
   ]
 }
