@@ -90,6 +90,21 @@
         {"word": "abyss", "syllables": "a-byss", "definition": "a very deep part of the ocean", "sentence": "Creatures in the abyss live in near darkness."},
         {"word": "sonar", "syllables": "so-nar", "definition": "a system that uses sound waves to find objects underwater", "sentence": "Scientists used sonar to locate the wreck."}
       ]
+    },
+    {
+      "date": "2026-10-04",
+      "words": [
+        {"word": "bridge", "syllables": "bridge", "definition": "a structure built to cross a river, road, or valley", "sentence": "Ace sketched a bridge that could carry cars over the river."},
+        {"word": "suspension", "syllables": "sus-pen-sion", "definition": "a bridge design that hangs the roadway from cables on tall towers", "sentence": "A suspension bridge uses strong cables to hold up the deck."},
+        {"word": "girder", "syllables": "gird-er", "definition": "a large steel or concrete beam that supports a floor or bridge deck", "sentence": "Workers lifted a steel girder into place with a crane."},
+        {"word": "cantilever", "syllables": "can-ti-le-ver", "definition": "a beam supported at one end that sticks out to carry a load", "sentence": "The balcony was a cantilever sticking out from the wall."},
+        {"word": "concrete", "syllables": "con-crete", "definition": "a hard building material made from cement, sand, gravel, and water", "sentence": "The crew poured concrete for the bridge foundation."},
+        {"word": "architect", "syllables": "ar-chi-tect", "definition": "a person who designs buildings and other structures", "sentence": "The architect drew plans for a safe new span."},
+        {"word": "foundation", "syllables": "foun-da-tion", "definition": "the solid base that supports a building or bridge", "sentence": "A deep foundation keeps the towers from shifting."},
+        {"word": "abutment", "syllables": "a-but-ment", "definition": "the end support of a bridge that holds back earth and carries load", "sentence": "Each abutment must sit on firm ground."},
+        {"word": "tensile", "syllables": "ten-sile", "definition": "related to stretching or pulling force", "sentence": "Steel cables have high tensile strength."},
+        {"word": "engineering", "syllables": "en-gi-neer-ing", "definition": "the work of designing and building machines, bridges, and systems", "sentence": "Civil engineering helps people cross rivers safely."}
+      ]
     }
   ]
 }

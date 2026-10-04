@@ -1,12 +1,12 @@
 [
-  {"word":"ocean","definition":"the vast body of salt water covering most of Earth","sentence":"Ace read that the Pacific Ocean is the largest ocean on Earth.","syllables":"o-cean"},
-  {"word":"current","definition":"a continuous flow of water in the sea","sentence":"A warm ocean current carried the raft north.","syllables":"cur-rent"},
-  {"word":"pressure","definition":"the force pressing on something, often measured in Pascals","sentence":"Water pressure rises as you dive deeper.","syllables":"pres-sure"},
-  {"word":"habitat","definition":"the natural home of a plant or animal","sentence":"Coral reefs are a rich habitat for fish.","syllables":"hab-i-tat"},
-  {"word":"plankton","definition":"tiny drifting organisms that many sea animals eat","sentence":"Whales filter plankton from the water.","syllables":"plank-ton"},
-  {"word":"submarine","definition":"a vessel that can travel underwater","sentence":"The research submarine mapped the trench.","syllables":"sub-ma-rine"},
-  {"word":"coastline","definition":"the land along the edge of the sea","sentence":"Canada's coastline is one of the longest in the world.","syllables":"coast-line"},
-  {"word":"buoyancy","definition":"the upward force that makes objects float","sentence":"Buoyancy helps a life jacket keep you afloat.","syllables":"buoy-an-cy"},
-  {"word":"abyss","definition":"a very deep part of the ocean","sentence":"Creatures in the abyss live in near darkness.","syllables":"a-byss"},
-  {"word":"sonar","definition":"a system that uses sound waves to find objects underwater","sentence":"Scientists used sonar to locate the wreck.","syllables":"so-nar"}
+  {"word":"bridge","definition":"a structure built to cross a river, road, or valley","sentence":"Ace sketched a bridge that could carry cars over the river.","syllables":"bridge"},
+  {"word":"suspension","definition":"a bridge design that hangs the roadway from cables on tall towers","sentence":"A suspension bridge uses strong cables to hold up the deck.","syllables":"sus-pen-sion"},
+  {"word":"girder","definition":"a large steel or concrete beam that supports a floor or bridge deck","sentence":"Workers lifted a steel girder into place with a crane.","syllables":"gird-er"},
+  {"word":"cantilever","definition":"a beam supported at one end that sticks out to carry a load","sentence":"The balcony was a cantilever sticking out from the wall.","syllables":"can-ti-le-ver"},
+  {"word":"concrete","definition":"a hard building material made from cement, sand, gravel, and water","sentence":"The crew poured concrete for the bridge foundation.","syllables":"con-crete"},
+  {"word":"architect","definition":"a person who designs buildings and other structures","sentence":"The architect drew plans for a safe new span.","syllables":"ar-chi-tect"},
+  {"word":"foundation","definition":"the solid base that supports a building or bridge","sentence":"A deep foundation keeps the towers from shifting.","syllables":"foun-da-tion"},
+  {"word":"abutment","definition":"the end support of a bridge that holds back earth and carries load","sentence":"Each abutment must sit on firm ground.","syllables":"a-but-ment"},
+  {"word":"tensile","definition":"related to stretching or pulling force","sentence":"Steel cables have high tensile strength.","syllables":"ten-sile"},
+  {"word":"engineering","definition":"the work of designing and building machines, bridges, and systems","sentence":"Civil engineering helps people cross rivers safely.","syllables":"en-gi-neer-ing"}
 ]
