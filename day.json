@@ -1,12 +1,12 @@
 [
-  {"word":"bridge","definition":"a structure built to cross a river, road, or valley","sentence":"Ace sketched a bridge that could carry cars over the river.","syllables":"bridge"},
-  {"word":"suspension","definition":"a bridge design that hangs the roadway from cables on tall towers","sentence":"A suspension bridge uses strong cables to hold up the deck.","syllables":"sus-pen-sion"},
-  {"word":"girder","definition":"a large steel or concrete beam that supports a floor or bridge deck","sentence":"Workers lifted a steel girder into place with a crane.","syllables":"gird-er"},
-  {"word":"cantilever","definition":"a beam supported at one end that sticks out to carry a load","sentence":"The balcony was a cantilever sticking out from the wall.","syllables":"can-ti-le-ver"},
-  {"word":"concrete","definition":"a hard building material made from cement, sand, gravel, and water","sentence":"The crew poured concrete for the bridge foundation.","syllables":"con-crete"},
-  {"word":"architect","definition":"a person who designs buildings and other structures","sentence":"The architect drew plans for a safe new span.","syllables":"ar-chi-tect"},
-  {"word":"foundation","definition":"the solid base that supports a building or bridge","sentence":"A deep foundation keeps the towers from shifting.","syllables":"foun-da-tion"},
-  {"word":"abutment","definition":"the end support of a bridge that holds back earth and carries load","sentence":"Each abutment must sit on firm ground.","syllables":"a-but-ment"},
-  {"word":"tensile","definition":"related to stretching or pulling force","sentence":"Steel cables have high tensile strength.","syllables":"ten-sile"},
-  {"word":"engineering","definition":"the work of designing and building machines, bridges, and systems","sentence":"Civil engineering helps people cross rivers safely.","syllables":"en-gi-neer-ing"}
+  {"word":"astronomy","definition":"the science of stars, planets, and everything else in space","sentence":"Ace borrowed a book on astronomy to learn the names of the planets.","syllables":"as-tron-o-my"},
+  {"word":"gravity","definition":"the invisible force that pulls objects toward each other","sentence":"Gravity keeps the Moon travelling around Earth.","syllables":"grav-i-ty"},
+  {"word":"orbit","definition":"the curved path an object follows around a planet or star","sentence":"The space station completes an orbit about every hour and a half.","syllables":"or-bit"},
+  {"word":"galaxy","definition":"a huge group of billions of stars, gas, and dust held together by gravity","sentence":"Our Solar System is one tiny part of the Milky Way galaxy.","syllables":"gal-ax-y"},
+  {"word":"telescope","definition":"a tool that makes faraway objects look closer and larger","sentence":"Through the telescope, Ace could see the rings of Saturn.","syllables":"tel-e-scope"},
+  {"word":"satellite","definition":"an object that travels in orbit around a planet","sentence":"A weather satellite sent pictures of the storm over the Pacific.","syllables":"sat-el-lite"},
+  {"word":"atmosphere","definition":"the layer of gases that surrounds a planet","sentence":"Earth's atmosphere protects us from most small space rocks.","syllables":"at-mos-phere"},
+  {"word":"asteroid","definition":"a rocky object, smaller than a planet, that orbits the Sun","sentence":"Scientists track every large asteroid that passes near Earth.","syllables":"as-ter-oid"},
+  {"word":"constellation","definition":"a group of stars that forms a pattern or picture in the night sky","sentence":"The Big Dipper is part of a constellation called the Great Bear.","syllables":"con-stel-la-tion"},
+  {"word":"meteorite","definition":"a piece of rock from space that lands on Earth's surface","sentence":"The museum displayed a meteorite that fell in a Canadian farmer's field.","syllables":"me-te-or-ite"}
 ]

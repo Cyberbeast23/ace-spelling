@@ -105,6 +105,21 @@
         {"word": "tensile", "syllables": "ten-sile", "definition": "related to stretching or pulling force", "sentence": "Steel cables have high tensile strength."},
         {"word": "engineering", "syllables": "en-gi-neer-ing", "definition": "the work of designing and building machines, bridges, and systems", "sentence": "Civil engineering helps people cross rivers safely."}
       ]
+    },
+    {
+      "date": "2026-10-05",
+      "words": [
+        {"word": "astronomy", "syllables": "as-tron-o-my", "definition": "the science of stars, planets, and everything else in space", "sentence": "Ace borrowed a book on astronomy to learn the names of the planets."},
+        {"word": "gravity", "syllables": "grav-i-ty", "definition": "the invisible force that pulls objects toward each other", "sentence": "Gravity keeps the Moon travelling around Earth."},
+        {"word": "orbit", "syllables": "or-bit", "definition": "the curved path an object follows around a planet or star", "sentence": "The space station completes an orbit about every hour and a half."},
+        {"word": "galaxy", "syllables": "gal-ax-y", "definition": "a huge group of billions of stars, gas, and dust held together by gravity", "sentence": "Our Solar System is one tiny part of the Milky Way galaxy."},
+        {"word": "telescope", "syllables": "tel-e-scope", "definition": "a tool that makes faraway objects look closer and larger", "sentence": "Through the telescope, Ace could see the rings of Saturn."},
+        {"word": "satellite", "syllables": "sat-el-lite", "definition": "an object that travels in orbit around a planet", "sentence": "A weather satellite sent pictures of the storm over the Pacific."},
+        {"word": "atmosphere", "syllables": "at-mos-phere", "definition": "the layer of gases that surrounds a planet", "sentence": "Earth's atmosphere protects us from most small space rocks."},
+        {"word": "asteroid", "syllables": "as-ter-oid", "definition": "a rocky object, smaller than a planet, that orbits the Sun", "sentence": "Scientists track every large asteroid that passes near Earth."},
+        {"word": "constellation", "syllables": "con-stel-la-tion", "definition": "a group of stars that forms a pattern or picture in the night sky", "sentence": "The Big Dipper is part of a constellation called the Great Bear."},
+        {"word": "meteorite", "syllables": "me-te-or-ite", "definition": "a piece of rock from space that lands on Earth's surface", "sentence": "The museum displayed a meteorite that fell in a Canadian farmer's field."}
+      ]
     }
   ]
 }
