@@ -120,6 +120,21 @@
         {"word": "constellation", "syllables": "con-stel-la-tion", "definition": "a group of stars that forms a pattern or picture in the night sky", "sentence": "The Big Dipper is part of a constellation called the Great Bear."},
         {"word": "meteorite", "syllables": "me-te-or-ite", "definition": "a piece of rock from space that lands on Earth's surface", "sentence": "The museum displayed a meteorite that fell in a Canadian farmer's field."}
       ]
+    },
+    {
+      "date": "2026-10-06",
+      "words": [
+        {"word": "empire", "syllables": "em-pire", "definition": "a group of countries or lands ruled by one powerful leader or government", "sentence": "At its largest, the Roman Empire stretched from Britain all the way to Egypt."},
+        {"word": "emperor", "syllables": "em-per-or", "definition": "the male ruler of an empire", "sentence": "Augustus became the first Roman emperor in 27 BCE."},
+        {"word": "aqueduct", "syllables": "aq-ue-duct", "definition": "a channel or bridge built to carry water over a long distance", "sentence": "The aqueduct used only gravity to carry fresh water into the city."},
+        {"word": "gladiator", "syllables": "glad-i-a-tor", "definition": "a person in ancient Rome who fought in an arena to entertain crowds", "sentence": "The gladiator stepped into the arena as fifty thousand people roared."},
+        {"word": "senator", "syllables": "sen-a-tor", "definition": "a member of a senate, a group of leaders who help make a country's laws", "sentence": "The senator gave a powerful speech asking for a new road."},
+        {"word": "republic", "syllables": "re-pub-lic", "definition": "a country where citizens choose their leaders instead of being ruled by a king or queen", "sentence": "Rome was a republic for almost five hundred years before it had emperors."},
+        {"word": "legion", "syllables": "le-gion", "definition": "a large unit of soldiers in the ancient Roman army", "sentence": "A Roman legion could march about twenty-five kilometres in a day."},
+        {"word": "citizen", "syllables": "cit-i-zen", "definition": "a person who legally belongs to a country and has its rights and duties", "sentence": "Every Canadian citizen aged eighteen or older can vote in elections."},
+        {"word": "amphitheatre", "syllables": "am-phi-the-a-tre", "definition": "a large oval or round building with rows of seats rising around an open centre", "sentence": "The Colosseum is the most famous amphitheatre in the world."},
+        {"word": "mosaic", "syllables": "mo-sa-ic", "definition": "a picture or pattern made by fitting together small pieces of coloured stone, glass, or tile", "sentence": "The Roman villa had a mosaic of a dolphin on the dining room floor."}
+      ]
     }
   ]
 }
