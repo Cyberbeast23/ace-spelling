@@ -135,6 +135,21 @@
         {"word": "amphitheatre", "syllables": "am-phi-the-a-tre", "definition": "a large oval or round building with rows of seats rising around an open centre", "sentence": "The Colosseum is the most famous amphitheatre in the world."},
         {"word": "mosaic", "syllables": "mo-sa-ic", "definition": "a picture or pattern made by fitting together small pieces of coloured stone, glass, or tile", "sentence": "The Roman villa had a mosaic of a dolphin on the dining room floor."}
       ]
+    },
+    {
+      "date": "2026-10-07",
+      "words": [
+        {"word": "circulation", "syllables": "cir-cu-la-tion", "definition": "the movement of blood around the body, pumped out by the heart and back again", "sentence": "Exercise improves your circulation, so oxygen reaches your muscles faster."},
+        {"word": "cardiologist", "syllables": "car-di-ol-o-gist", "definition": "a doctor who specializes in the heart and blood vessels", "sentence": "The cardiologist listened carefully to the patient's heartbeat."},
+        {"word": "artery", "syllables": "ar-ter-y", "definition": "a blood vessel that carries blood away from the heart", "sentence": "The nurse felt the pulse in the artery on the inside of Ace's wrist."},
+        {"word": "capillary", "syllables": "cap-il-lar-y", "definition": "one of the tiny blood vessels, thinner than a hair, that connect arteries to veins", "sentence": "Oxygen passes from each capillary into the cells around it."},
+        {"word": "ventricle", "syllables": "ven-tri-cle", "definition": "one of the two lower chambers of the heart that pump blood out", "sentence": "The left ventricle has the thickest muscle wall in the heart."},
+        {"word": "stethoscope", "syllables": "steth-o-scope", "definition": "a medical tool a doctor uses to listen to the heart and lungs", "sentence": "The doctor warmed the stethoscope before placing it on my chest."},
+        {"word": "rhythm", "syllables": "rhy-thm", "definition": "a regular, repeated pattern of beats or sounds", "sentence": "A healthy heart beats with a steady rhythm."},
+        {"word": "physician", "syllables": "phy-si-cian", "definition": "a medical doctor", "sentence": "William Harvey was an English physician who proved that blood circulates."},
+        {"word": "transfusion", "syllables": "trans-fu-sion", "definition": "putting blood from one person into another person's body to help them", "sentence": "After the accident, the patient needed a blood transfusion."},
+        {"word": "pulmonary", "syllables": "pul-mo-nar-y", "definition": "having to do with the lungs", "sentence": "The pulmonary arteries carry blood from the heart to the lungs."}
+      ]
     }
   ]
 }
