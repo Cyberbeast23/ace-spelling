@@ -165,6 +165,21 @@
         {"word": "seismograph", "syllables": "seis-mo-graph", "definition": "an instrument that detects and records the shaking of the ground during an earthquake", "sentence": "The seismograph's needle jumped wildly when the earthquake struck."},
         {"word": "tsunami", "syllables": "tsu-na-mi", "definition": "a giant, powerful ocean wave usually caused by an earthquake under the sea", "sentence": "After the earthquake, a tsunami warning was sent to every town along the coast."}
       ]
+    },
+    {
+      "date": "2026-10-09",
+      "words": [
+        {"word": "cipher", "syllables": "ci-pher", "definition": "a secret code in which letters are swapped or changed to hide a message", "sentence": "Julius Caesar used a simple cipher that shifted every letter three places."},
+        {"word": "encrypt", "syllables": "en-crypt", "definition": "to change a message into a secret code so others cannot read it", "sentence": "Your tablet will encrypt your password before it travels over the internet."},
+        {"word": "decipher", "syllables": "de-ci-pher", "definition": "to figure out the meaning of a code or of writing that is hard to read", "sentence": "Ace used frequency analysis to decipher the mysterious note."},
+        {"word": "algorithm", "syllables": "al-go-rithm", "definition": "a set of step-by-step rules for solving a problem, often used by computers", "sentence": "The codebreakers wrote an algorithm to test every possible shift."},
+        {"word": "binary", "syllables": "bi-na-ry", "definition": "a number system that uses only the digits 0 and 1", "sentence": "In binary, the number 5 is written as 101."},
+        {"word": "frequency", "syllables": "fre-quen-cy", "definition": "how often something happens or appears", "sentence": "The letter E has the highest frequency in English writing."},
+        {"word": "password", "syllables": "pass-word", "definition": "a secret word or set of characters you must type to get into something", "sentence": "A long password with numbers and symbols is much harder to guess."},
+        {"word": "cryptography", "syllables": "cryp-tog-ra-phy", "definition": "the science of making and breaking secret codes", "sentence": "Modern cryptography uses enormous prime numbers to protect bank accounts."},
+        {"word": "symbol", "syllables": "sym-bol", "definition": "a mark, sign, or picture that stands for something else", "sentence": "Each symbol in the coded message stood for a different letter."},
+        {"word": "confidential", "syllables": "con-fi-den-tial", "definition": "meant to be kept private or secret and shared only with certain people", "sentence": "The general marked the letter confidential so only his officers could read it."}
+      ]
     }
   ]
 }
