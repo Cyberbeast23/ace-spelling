@@ -150,6 +150,21 @@
         {"word": "transfusion", "syllables": "trans-fu-sion", "definition": "putting blood from one person into another person's body to help them", "sentence": "After the accident, the patient needed a blood transfusion."},
         {"word": "pulmonary", "syllables": "pul-mo-nar-y", "definition": "having to do with the lungs", "sentence": "The pulmonary arteries carry blood from the heart to the lungs."}
       ]
+    },
+    {
+      "date": "2026-10-08",
+      "words": [
+        {"word": "crater", "syllables": "cra-ter", "definition": "a bowl-shaped hole at the top of a volcano, or one made by something crashing into the ground", "sentence": "Steam rose slowly from the crater at the top of the volcano."},
+        {"word": "molten", "syllables": "mol-ten", "definition": "melted by great heat into a hot liquid", "sentence": "Molten rock glowed bright orange as it poured down the mountainside."},
+        {"word": "dormant", "syllables": "dor-mant", "definition": "inactive or asleep for now, but able to become active again", "sentence": "Mount Garibaldi is a dormant volcano near Squamish."},
+        {"word": "magma", "syllables": "mag-ma", "definition": "hot melted rock deep under the Earth's surface (it is called lava once it comes out)", "sentence": "Magma rose slowly beneath the mountain for weeks before the eruption."},
+        {"word": "eruption", "syllables": "e-rup-tion", "definition": "the sudden bursting out of lava, ash, and gas from a volcano", "sentence": "The 1980 eruption of Mount St. Helens blew the top off the mountain."},
+        {"word": "geologist", "syllables": "ge-ol-o-gist", "definition": "a scientist who studies rocks and how the Earth was formed and changes", "sentence": "The geologist examined layers of ash to learn when the volcano last erupted."},
+        {"word": "tectonic", "syllables": "tec-ton-ic", "definition": "having to do with the huge moving plates that make up the Earth's outer shell", "sentence": "Tectonic plates move only a few centimetres each year."},
+        {"word": "magnitude", "syllables": "mag-ni-tude", "definition": "a number that tells how strong an earthquake is", "sentence": "A magnitude 7 earthquake shakes the ground about 1000 times as much as a magnitude 4."},
+        {"word": "seismograph", "syllables": "seis-mo-graph", "definition": "an instrument that detects and records the shaking of the ground during an earthquake", "sentence": "The seismograph's needle jumped wildly when the earthquake struck."},
+        {"word": "tsunami", "syllables": "tsu-na-mi", "definition": "a giant, powerful ocean wave usually caused by an earthquake under the sea", "sentence": "After the earthquake, a tsunami warning was sent to every town along the coast."}
+      ]
     }
   ]
 }
