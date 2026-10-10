@@ -180,6 +180,21 @@
         {"word": "symbol", "syllables": "sym-bol", "definition": "a mark, sign, or picture that stands for something else", "sentence": "Each symbol in the coded message stood for a different letter."},
         {"word": "confidential", "syllables": "con-fi-den-tial", "definition": "meant to be kept private or secret and shared only with certain people", "sentence": "The general marked the letter confidential so only his officers could read it."}
       ]
+    },
+    {
+      "date": "2026-10-10",
+      "words": [
+        {"word": "symphony", "syllables": "sym-pho-ny", "definition": "a long piece of music written for a full orchestra, usually in several parts called movements", "sentence": "The orchestra played a symphony that lasted almost forty minutes."},
+        {"word": "harmony", "syllables": "har-mo-ny", "definition": "different musical notes played or sung at the same time in a way that sounds pleasing", "sentence": "Ace sang the melody while Dad added the harmony."},
+        {"word": "vibration", "syllables": "vi-bra-tion", "definition": "a very fast back-and-forth movement, like the shaking that makes sound", "sentence": "Ace could feel the vibration of the guitar string with his fingertip."},
+        {"word": "acoustic", "syllables": "a-cous-tic", "definition": "to do with sound or hearing; also, an instrument that is not plugged in to electricity", "sentence": "The concert hall's acoustic design lets every seat hear clearly."},
+        {"word": "percussion", "syllables": "per-cus-sion", "definition": "instruments that make sound when they are hit, shaken, or scraped, such as drums and cymbals", "sentence": "The percussion section crashed its cymbals at the end of the song."},
+        {"word": "composer", "syllables": "com-pos-er", "definition": "a person who writes music", "sentence": "Edvard Grieg was the composer of \"In the Hall of the Mountain King.\""},
+        {"word": "decibel", "syllables": "dec-i-bel", "definition": "a unit used to measure how loud a sound is", "sentence": "Every ten-decibel jump means the sound carries ten times as much energy."},
+        {"word": "resonance", "syllables": "res-o-nance", "definition": "a deep, full sound made when one vibrating object makes another vibrate along with it", "sentence": "The hollow wooden body of a guitar adds resonance to each note."},
+        {"word": "crescendo", "syllables": "cre-scen-do", "definition": "a gradual increase in loudness in a piece of music", "sentence": "The music grew into a huge crescendo that made the audience gasp."},
+        {"word": "amplify", "syllables": "am-pli-fy", "definition": "to make a sound louder or stronger", "sentence": "The tiny bones in your middle ear amplify the vibrations from your eardrum."}
+      ]
     }
   ]
 }
