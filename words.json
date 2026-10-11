@@ -195,6 +195,21 @@
         {"word": "crescendo", "syllables": "cre-scen-do", "definition": "a gradual increase in loudness in a piece of music", "sentence": "The music grew into a huge crescendo that made the audience gasp."},
         {"word": "amplify", "syllables": "am-pli-fy", "definition": "to make a sound louder or stronger", "sentence": "The tiny bones in your middle ear amplify the vibrations from your eardrum."}
       ]
+    },
+    {
+      "date": "2026-10-11",
+      "words": [
+        {"word": "locomotive", "syllables": "lo-co-mo-tive", "definition": "the engine that pulls a train along the track", "sentence": "The steam locomotive puffed clouds of smoke as it climbed toward Rogers Pass."},
+        {"word": "transcontinental", "syllables": "trans-con-ti-nen-tal", "definition": "crossing a whole continent from one side to the other", "sentence": "The Canadian Pacific was Canada's first transcontinental railway."},
+        {"word": "immigrant", "syllables": "im-mi-grant", "definition": "a person who comes to live permanently in a new country", "sentence": "Many immigrant workers sailed across the Pacific Ocean to help build the railway."},
+        {"word": "surveyor", "syllables": "sur-vey-or", "definition": "a person who measures and maps land to plan where roads, railways, or buildings will go", "sentence": "The surveyor searched the Selkirk Mountains for a pass the trains could cross."},
+        {"word": "avalanche", "syllables": "av-a-lanche", "definition": "a huge mass of snow, ice, and rock that slides suddenly down a mountainside", "sentence": "A wooden snowshed protected the track when an avalanche thundered down the mountain."},
+        {"word": "confederation", "syllables": "con-fed-er-a-tion", "definition": "the joining together of provinces or states to form one country", "sentence": "British Columbia joined Confederation in 1871, four years after Canada was formed."},
+        {"word": "prejudice", "syllables": "prej-u-dice", "definition": "an unfair opinion or dislike of people formed without good reason, often because of their race or background", "sentence": "The head tax was a law based on prejudice against Chinese immigrants."},
+        {"word": "perseverance", "syllables": "per-se-ver-ance", "definition": "continuing to try hard even when something is very difficult", "sentence": "The workers' perseverance carved a railway through the solid rock of the Fraser Canyon."},
+        {"word": "treacherous", "syllables": "treach-er-ous", "definition": "full of hidden dangers", "sentence": "The narrow ledges above the roaring river were treacherous."},
+        {"word": "labourer", "syllables": "la-bour-er", "definition": "a person who does hard physical work, usually with their hands", "sentence": "Each labourer swung a heavy hammer from sunrise to sunset."}
+      ]
     }
   ]
 }
