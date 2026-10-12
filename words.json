@@ -210,6 +210,21 @@
         {"word": "treacherous", "syllables": "treach-er-ous", "definition": "full of hidden dangers", "sentence": "The narrow ledges above the roaring river were treacherous."},
         {"word": "labourer", "syllables": "la-bour-er", "definition": "a person who does hard physical work, usually with their hands", "sentence": "Each labourer swung a heavy hammer from sunrise to sunset."}
       ]
+    },
+    {
+      "date": "2026-10-12",
+      "words": [
+        {"word": "neuron", "syllables": "neu-ron", "definition": "a nerve cell that carries electrical and chemical messages through the body", "sentence": "Every thought Ace has travels along a chain of neurons in his brain."},
+        {"word": "reflex", "syllables": "re-flex", "definition": "a fast, automatic response that happens without thinking first", "sentence": "Pulling your hand away from a hot stove is a reflex that protects you."},
+        {"word": "cerebrum", "syllables": "ce-re-brum", "definition": "the large, wrinkled top part of the brain that handles thinking, memory, and voluntary movement", "sentence": "Your cerebrum is busy when you solve a maths problem or remember a friend's name."},
+        {"word": "cerebellum", "syllables": "cer-e-bel-lum", "definition": "the smaller part of the brain at the back that helps with balance and smooth coordination", "sentence": "The cerebellum helps a cyclist stay steady while pedalling around a corner."},
+        {"word": "synapse", "syllables": "syn-apse", "definition": "the tiny gap between two neurons where a chemical message jumps across", "sentence": "A signal crosses the synapse in a fraction of a millisecond."},
+        {"word": "concussion", "syllables": "con-cus-sion", "definition": "a brain injury caused by a hard bump or jolt to the head", "sentence": "Wearing a helmet lowers the chance of a concussion in a bike crash."},
+        {"word": "sensory", "syllables": "sen-so-ry", "definition": "related to the senses (sight, hearing, touch, taste, and smell)", "sentence": "Sensory nerves carry messages from your eyes and skin to your brain."},
+        {"word": "coordination", "syllables": "co-or-di-na-tion", "definition": "the ability to use different parts of the body together smoothly and accurately", "sentence": "Catching a ball takes careful coordination between eyes, brain, and hands."},
+        {"word": "impulse", "syllables": "im-pulse", "definition": "a sudden electrical signal that travels along a neuron", "sentence": "A nerve impulse can race from your toe to your brain in a blink."},
+        {"word": "myelin", "syllables": "my-e-lin", "definition": "a fatty coating around many nerve fibres that helps signals travel faster", "sentence": "Myelin works like insulation on a wire, speeding up the nerve message."}
+      ]
     }
   ]
 }
