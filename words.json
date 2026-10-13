@@ -225,6 +225,21 @@
         {"word": "impulse", "syllables": "im-pulse", "definition": "a sudden electrical signal that travels along a neuron", "sentence": "A nerve impulse can race from your toe to your brain in a blink."},
         {"word": "myelin", "syllables": "my-e-lin", "definition": "a fatty coating around many nerve fibres that helps signals travel faster", "sentence": "Myelin works like insulation on a wire, speeding up the nerve message."}
       ]
+    },
+    {
+      "date": "2026-10-13",
+      "words": [
+        {"word": "pollination", "syllables": "pol-li-na-tion", "definition": "the transfer of pollen from one flower to another so seeds and fruit can form", "sentence": "Bees help with pollination when they carry pollen from blossom to blossom."},
+        {"word": "nectar", "syllables": "nec-tar", "definition": "the sweet liquid inside flowers that bees collect to make honey", "sentence": "A honeybee drinks nectar from a clover flower in the meadow."},
+        {"word": "hive", "syllables": "hive", "definition": "a structure where a colony of bees lives and stores honey", "sentence": "Thousands of worker bees return to the hive each evening with nectar."},
+        {"word": "colony", "syllables": "col-o-ny", "definition": "a large group of bees that live and work together as one community", "sentence": "A healthy colony may contain tens of thousands of bees in summer."},
+        {"word": "pesticide", "syllables": "pes-ti-cide", "definition": "a chemical used to kill insects or other pests that can also harm bees", "sentence": "Some pesticides sprayed on crops can poison foraging honeybees."},
+        {"word": "ecosystem", "syllables": "e-co-sys-tem", "definition": "a community of living things interacting with each other and their environment", "sentence": "Bees are a key part of the farm ecosystem because they pollinate food crops."},
+        {"word": "fertilise", "syllables": "fer-ti-lise", "definition": "to make a plant able to produce seeds or fruit by bringing pollen to it (Canadian spelling)", "sentence": "When bees fertilise apple blossoms, the trees can grow crisp autumn fruit."},
+        {"word": "pollen", "syllables": "pol-len", "definition": "the fine powder from flowers that bees carry and that plants need for reproduction", "sentence": "Yellow pollen stuck to the bee's legs as she crawled inside the bloom."},
+        {"word": "worker", "syllables": "work-er", "definition": "a female bee that gathers food, builds comb, and cares for the hive (not the queen)", "sentence": "A worker bee may visit hundreds of flowers in a single foraging trip."},
+        {"word": "agriculture", "syllables": "ag-ri-cul-ture", "definition": "the practice of farming, including growing crops and raising animals for food", "sentence": "Canadian agriculture depends on bees to pollinate blueberries, canola, and apples."}
+      ]
     }
   ]
 }
