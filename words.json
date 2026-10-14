@@ -240,6 +240,21 @@
         {"word": "worker", "syllables": "work-er", "definition": "a female bee that gathers food, builds comb, and cares for the hive (not the queen)", "sentence": "A worker bee may visit hundreds of flowers in a single foraging trip."},
         {"word": "agriculture", "syllables": "ag-ri-cul-ture", "definition": "the practice of farming, including growing crops and raising animals for food", "sentence": "Canadian agriculture depends on bees to pollinate blueberries, canola, and apples."}
       ]
+    },
+    {
+      "date": "2026-10-14",
+      "words": [
+        {"word": "circuit", "syllables": "cir-cuit", "definition": "a closed path that electricity can travel through, from a power source and back again", "sentence": "When Ace closed the switch, the circuit was complete and the bulb lit up."},
+        {"word": "voltage", "syllables": "volt-age", "definition": "the electric 'push' that moves charges through a circuit, measured in volts", "sentence": "A typical Canadian wall outlet supplies about 120 volts of voltage."},
+        {"word": "conductor", "syllables": "con-duc-tor", "definition": "a material that lets electric charge flow through it easily, such as copper wire", "sentence": "Copper is an excellent conductor, which is why it is used in house wiring."},
+        {"word": "insulator", "syllables": "in-su-la-tor", "definition": "a material that resists the flow of electric charge, such as plastic or rubber", "sentence": "The plastic coating on a wire is an insulator that keeps you safer."},
+        {"word": "electron", "syllables": "e-lec-tron", "definition": "a tiny negatively charged particle that moves through a conductor in an electric current", "sentence": "Billions of electrons drift along the copper wire when the lamp is on."},
+        {"word": "switch", "syllables": "switch", "definition": "a device that opens or closes a circuit to turn a load on or off", "sentence": "Flip the switch and the hallway light comes on instantly."},
+        {"word": "battery", "syllables": "bat-ter-y", "definition": "a portable power source that stores chemical energy and can push charge through a circuit", "sentence": "Two AA batteries in series gave the toy car enough voltage to roll."},
+        {"word": "watt", "syllables": "watt", "definition": "the SI unit of power; one watt equals one joule of energy used each second", "sentence": "An LED bulb that uses only 9 watts can replace an old 60-watt lamp."},
+        {"word": "hydroelectric", "syllables": "hy-dro-e-lec-tric", "definition": "producing electricity from the energy of falling or flowing water", "sentence": "Much of British Columbia's power comes from large hydroelectric dams."},
+        {"word": "resistance", "syllables": "re-sis-tance", "definition": "how strongly a material opposes the flow of electric charge, measured in ohms", "sentence": "A thin wire has more resistance than a thick wire of the same metal."}
+      ]
     }
   ]
 }
