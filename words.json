@@ -255,6 +255,21 @@
         {"word": "hydroelectric", "syllables": "hy-dro-e-lec-tric", "definition": "producing electricity from the energy of falling or flowing water", "sentence": "Much of British Columbia's power comes from large hydroelectric dams."},
         {"word": "resistance", "syllables": "re-sis-tance", "definition": "how strongly a material opposes the flow of electric charge, measured in ohms", "sentence": "A thin wire has more resistance than a thick wire of the same metal."}
       ]
+    },
+    {
+      "date": "2026-10-15",
+      "words": [
+        {"word": "Indigenous", "syllables": "In-dig-e-nous", "definition": "describing the first peoples to live in a place, and their descendants; in Canada, First Nations, Inuit, and Métis peoples", "sentence": "Ace learned that Indigenous peoples have lived in British Columbia for more than ten thousand years."},
+        {"word": "territory", "syllables": "ter-ri-to-ry", "definition": "an area of land and water that a group of people lives on, uses, and cares for", "sentence": "The school assembly began by naming whose traditional territory the school stands on."},
+        {"word": "ancestor", "syllables": "an-ces-tor", "definition": "a family member who lived long ago, before your grandparents", "sentence": "The elder told a story about an ancestor who paddled all the way to Haida Gwaii."},
+        {"word": "ceremony", "syllables": "cer-e-mo-ny", "definition": "a special, formal event with words, songs, or actions that honour something important", "sentence": "Many Nations hold a ceremony of thanks when the first salmon of the season arrives."},
+        {"word": "treaty", "syllables": "trea-ty", "definition": "a formal written agreement between nations or governments", "sentence": "The Nisga'a treaty with Canada and British Columbia took effect in 2000."},
+        {"word": "elder", "syllables": "el-der", "definition": "an older person who is respected for their wisdom, knowledge, and experience", "sentence": "The children listened quietly while the elder shared the history of the river."},
+        {"word": "canoe", "syllables": "ca-noe", "definition": "a long, narrow boat moved with paddles, often carved from a single cedar log", "sentence": "Twelve paddlers pulled together to move the great cedar canoe across the bay."},
+        {"word": "cedar", "syllables": "ce-dar", "definition": "a tall evergreen tree with soft, rot-resistant wood and bark that can be woven", "sentence": "Strips of cedar bark were woven into baskets, mats, and rain hats."},
+        {"word": "potlatch", "syllables": "pot-latch", "definition": "a celebration held by many coastal First Nations where a host family shares food, songs, dances, and gifts with guests who witness an important event", "sentence": "The family invited guests from three villages to the potlatch to celebrate a new name."},
+        {"word": "stewardship", "syllables": "stew-ard-ship", "definition": "the job of carefully looking after land, water, and living things so they stay healthy for the future", "sentence": "Letting enough salmon swim upstream to lay their eggs is a smart kind of stewardship."}
+      ]
     }
   ]
 }
