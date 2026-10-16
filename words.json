@@ -270,6 +270,21 @@
         {"word": "potlatch", "syllables": "pot-latch", "definition": "a celebration held by many coastal First Nations where a host family shares food, songs, dances, and gifts with guests who witness an important event", "sentence": "The family invited guests from three villages to the potlatch to celebrate a new name."},
         {"word": "stewardship", "syllables": "stew-ard-ship", "definition": "the job of carefully looking after land, water, and living things so they stay healthy for the future", "sentence": "Letting enough salmon swim upstream to lay their eggs is a smart kind of stewardship."}
       ]
+    },
+    {
+      "date": "2026-10-16",
+      "words": [
+        {"word": "glacier", "syllables": "gla-cier", "definition": "a huge, slow-moving mass of ice formed from snow pressed down over many years", "sentence": "Ace learned that a glacier can carve a deep U-shaped valley as it creeps downhill."},
+        {"word": "mammoth", "syllables": "mam-moth", "definition": "a large, extinct relative of the elephant, often with long curved tusks and, in the woolly mammoth, thick shaggy fur", "sentence": "The woolly mammoth's shaggy coat kept it warm on the frozen grasslands."},
+        {"word": "mastodon", "syllables": "mas-to-don", "definition": "an extinct elephant-like animal, shorter and stockier than a mammoth, with bumpy teeth for chewing twigs and leaves", "sentence": "The mastodon used its cone-shaped teeth to crunch branches in the swampy forest."},
+        {"word": "permafrost", "syllables": "per-ma-frost", "definition": "ground that stays frozen all year long", "sentence": "A baby mammoth stayed frozen in the Yukon permafrost for about 30 000 years."},
+        {"word": "tundra", "syllables": "tun-dra", "definition": "a cold, treeless land where only grasses, low shrubs, and small plants can grow", "sentence": "Herds of musk oxen and caribou still roam the Arctic tundra today."},
+        {"word": "sediment", "syllables": "sed-i-ment", "definition": "sand, gravel, mud, and bits of rock carried and dropped by ice, water, or wind", "sentence": "When the ice melted, it left thick layers of sediment along the river banks."},
+        {"word": "migration", "syllables": "mi-gra-tion", "definition": "a long journey from one region to another, often made by groups of animals", "sentence": "The herds made a long migration across the land bridge between Siberia and Alaska."},
+        {"word": "adaptation", "syllables": "ad-ap-ta-tion", "definition": "a body feature or behaviour that helps a living thing survive in its environment", "sentence": "Small ears were a clever adaptation that helped the mammoth hold in body heat."},
+        {"word": "megafauna", "syllables": "meg-a-fau-na", "definition": "very large animals, especially the giant mammals that lived during the Ice Age", "sentence": "Giant ground sloths and sabre-toothed cats were part of the Ice Age megafauna."},
+        {"word": "Pleistocene", "syllables": "Pleis-to-cene", "definition": "the period of Earth's history, from about 2.6 million to 11 700 years ago, that included the last ice ages", "sentence": "During the Pleistocene, thick ice sheets covered almost all of British Columbia."}
+      ]
     }
   ]
 }
