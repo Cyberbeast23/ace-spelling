@@ -285,6 +285,21 @@
         {"word": "megafauna", "syllables": "meg-a-fau-na", "definition": "very large animals, especially the giant mammals that lived during the Ice Age", "sentence": "Giant ground sloths and sabre-toothed cats were part of the Ice Age megafauna."},
         {"word": "Pleistocene", "syllables": "Pleis-to-cene", "definition": "the period of Earth's history, from about 2.6 million to 11 700 years ago, that included the last ice ages", "sentence": "During the Pleistocene, thick ice sheets covered almost all of British Columbia."}
       ]
+    },
+    {
+      "date": "2026-10-17",
+      "words": [
+        {"word": "government", "syllables": "gov-ern-ment", "definition": "the group of people who make the rules and decisions for a country, province, or town, and the system they use to do it", "sentence": "Ace learned that Canada's government has three main levels: federal, provincial, and municipal."},
+        {"word": "parliament", "syllables": "par-lia-ment", "definition": "the group that makes a country's laws; in Canada it is the King (represented by the Governor General), the Senate, and the House of Commons", "sentence": "A bill must pass both houses of Parliament before it can become a law."},
+        {"word": "election", "syllables": "e-lec-tion", "definition": "an event in which people vote to choose who will represent them or lead them", "sentence": "On election day, voters across BC chose their mayors and councillors."},
+        {"word": "democracy", "syllables": "de-moc-ra-cy", "definition": "a system of government in which the people hold the power and choose their leaders by voting", "sentence": "In a democracy, every citizen's vote counts the same."},
+        {"word": "ballot", "syllables": "bal-lot", "definition": "a paper or form on which a voter secretly marks a choice", "sentence": "She folded her ballot in half and slid it into the sealed box."},
+        {"word": "municipal", "syllables": "mu-nic-i-pal", "definition": "having to do with the local government of a city or town", "sentence": "The municipal council voted to build a new skate park beside the library."},
+        {"word": "legislature", "syllables": "leg-is-la-ture", "definition": "a group of elected people with the power to make laws, such as the Legislative Assembly of British Columbia", "sentence": "The 93 members of BC's legislature meet in Victoria to debate new laws."},
+        {"word": "candidate", "syllables": "can-di-date", "definition": "a person who is trying to be elected to a position", "sentence": "Each candidate for mayor gave a short speech at the community centre."},
+        {"word": "responsibility", "syllables": "re-spon-si-bil-i-ty", "definition": "a duty or job that you are expected to do, or the state of being in charge of something", "sentence": "Voting is both a right and a responsibility for Canadian citizens."},
+        {"word": "constitution", "syllables": "con-sti-tu-tion", "definition": "the set of basic laws and rules that describe how a country is governed and what rights its people have", "sentence": "The Charter of Rights and Freedoms became part of Canada's Constitution in 1982."}
+      ]
     }
   ]
 }
