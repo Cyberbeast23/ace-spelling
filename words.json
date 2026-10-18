@@ -300,6 +300,21 @@
         {"word": "responsibility", "syllables": "re-spon-si-bil-i-ty", "definition": "a duty or job that you are expected to do, or the state of being in charge of something", "sentence": "Voting is both a right and a responsibility for Canadian citizens."},
         {"word": "constitution", "syllables": "con-sti-tu-tion", "definition": "the set of basic laws and rules that describe how a country is governed and what rights its people have", "sentence": "The Charter of Rights and Freedoms became part of Canada's Constitution in 1982."}
       ]
+    },
+    {
+      "date": "2026-10-18",
+      "words": [
+        {"word": "barometer", "syllables": "ba-rom-e-ter", "definition": "an instrument that measures air pressure, which helps forecasters predict changes in the weather", "sentence": "When the barometer dropped quickly, Ace knew a storm was on its way."},
+        {"word": "humidity", "syllables": "hu-mid-i-ty", "definition": "the amount of water vapour in the air", "sentence": "The humidity was so high before the storm that the air felt heavy and damp."},
+        {"word": "precipitation", "syllables": "pre-cip-i-ta-tion", "definition": "water that falls from clouds to the ground as rain, snow, sleet, or hail", "sentence": "The forecast called for a 70 percent chance of precipitation on Saturday."},
+        {"word": "meteorologist", "syllables": "me-te-or-ol-o-gist", "definition": "a scientist who studies the atmosphere and forecasts the weather", "sentence": "The meteorologist warned that an atmospheric river would soak the coast overnight."},
+        {"word": "condensation", "syllables": "con-den-sa-tion", "definition": "the change of water vapour (a gas) into tiny liquid droplets when it cools", "sentence": "Condensation formed on the outside of Ace's cold glass of milk."},
+        {"word": "evaporation", "syllables": "e-vap-o-ra-tion", "definition": "the change of liquid water into water vapour (a gas), usually when it is warmed", "sentence": "After the rain stopped, evaporation slowly dried the puddles on the playground."},
+        {"word": "forecast", "syllables": "fore-cast", "definition": "a prediction of what the weather will be like in the coming hours or days", "sentence": "Dad checked the forecast before packing umbrellas for the weekend trip."},
+        {"word": "cumulonimbus", "syllables": "cu-mu-lo-nim-bus", "definition": "a huge, towering storm cloud that can bring heavy rain, lightning, thunder, and hail", "sentence": "A dark cumulonimbus cloud rose high above the mountains on the hot afternoon."},
+        {"word": "thermometer", "syllables": "ther-mom-e-ter", "definition": "an instrument that measures temperature", "sentence": "The thermometer outside the kitchen window read minus 3 degrees Celsius."},
+        {"word": "visibility", "syllables": "vis-i-bil-i-ty", "definition": "how far you can see clearly, which can be reduced by fog, heavy rain, or snow", "sentence": "Thick fog cut the visibility on the highway to less than 100 metres."}
+      ]
     }
   ]
 }
