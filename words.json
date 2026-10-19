@@ -315,6 +315,21 @@
         {"word": "thermometer", "syllables": "ther-mom-e-ter", "definition": "an instrument that measures temperature", "sentence": "The thermometer outside the kitchen window read minus 3 degrees Celsius."},
         {"word": "visibility", "syllables": "vis-i-bil-i-ty", "definition": "how far you can see clearly, which can be reduced by fog, heavy rain, or snow", "sentence": "Thick fog cut the visibility on the highway to less than 100 metres."}
       ]
+    },
+    {
+      "date": "2026-10-19",
+      "words": [
+        {"word": "bacteria", "syllables": "bac-te-ri-a", "definition": "tiny one-celled living things, too small to see without a microscope; some cause disease, but many are helpful", "sentence": "Helpful bacteria in your intestines help you digest your food."},
+        {"word": "symptom", "syllables": "symp-tom", "definition": "a sign or feeling, such as a fever or a cough, that shows a person may be sick", "sentence": "A sore throat was the first symptom of Ace's cold."},
+        {"word": "hygiene", "syllables": "hy-giene", "definition": "habits that keep you and the things around you clean and healthy, such as washing your hands", "sentence": "Good hygiene, like washing with soap for 20 seconds, stops germs from spreading."},
+        {"word": "contagious", "syllables": "con-ta-gious", "definition": "able to spread from one person to another", "sentence": "Chickenpox is so contagious that a whole class can catch it in a few weeks."},
+        {"word": "antibody", "syllables": "an-ti-bod-y", "definition": "a Y-shaped protein made by white blood cells that sticks to one particular germ and helps destroy it", "sentence": "Each antibody fits only one kind of germ, like a key that fits one lock."},
+        {"word": "immunity", "syllables": "im-mu-ni-ty", "definition": "the body's protection against a disease, so that the disease does not make you sick", "sentence": "After her vaccine, Mila's body built immunity to measles."},
+        {"word": "vaccination", "syllables": "vac-ci-na-tion", "definition": "giving someone a vaccine, usually as a shot, to train the immune system to fight a disease", "sentence": "The nurse said the vaccination would only sting for a second."},
+        {"word": "pathogen", "syllables": "path-o-gen", "definition": "a germ, such as a virus or harmful bacterium, that causes disease", "sentence": "Phagocytes swallowed the pathogen before it could spread through the body."},
+        {"word": "inflammation", "syllables": "in-flam-ma-tion", "definition": "redness, swelling, heat, and soreness in a part of the body that is fighting germs or healing an injury", "sentence": "The inflammation around the scrape showed that white blood cells were hard at work."},
+        {"word": "microorganism", "syllables": "mi-cro-or-gan-ism", "definition": "a living thing so small that it can only be seen with a microscope", "sentence": "Under the microscope, Ace spotted a tiny microorganism wiggling in the pond water."}
+      ]
     }
   ]
 }
