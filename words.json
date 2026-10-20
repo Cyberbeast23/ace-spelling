@@ -330,6 +330,21 @@
         {"word": "inflammation", "syllables": "in-flam-ma-tion", "definition": "redness, swelling, heat, and soreness in a part of the body that is fighting germs or healing an injury", "sentence": "The inflammation around the scrape showed that white blood cells were hard at work."},
         {"word": "microorganism", "syllables": "mi-cro-or-gan-ism", "definition": "a living thing so small that it can only be seen with a microscope", "sentence": "Under the microscope, Ace spotted a tiny microorganism wiggling in the pond water."}
       ]
+    },
+    {
+      "date": "2026-10-20",
+      "words": [
+        {"word": "dynasty", "syllables": "dy-nas-ty", "definition": "a family of rulers that passes power down from one generation to the next, or the time when that family rules", "sentence": "The Ming dynasty rebuilt much of the Great Wall with stone and brick."},
+        {"word": "invention", "syllables": "in-ven-tion", "definition": "something new that someone creates or designs for the first time", "sentence": "Paper was an invention that changed how the whole world learns."},
+        {"word": "compass", "syllables": "com-pass", "definition": "a tool with a magnetic needle that shows which way is north, used to find directions", "sentence": "Sailors used a compass to steer when clouds hid the stars."},
+        {"word": "porcelain", "syllables": "por-ce-lain", "definition": "a fine, hard, white pottery made by baking special clay at very high heat", "sentence": "Merchants carried delicate porcelain bowls along the trade routes."},
+        {"word": "calligraphy", "syllables": "cal-lig-ra-phy", "definition": "the art of beautiful handwriting, often done with a brush or special pen", "sentence": "Ace practised calligraphy by painting Chinese characters with a brush."},
+        {"word": "gunpowder", "syllables": "gun-pow-der", "definition": "an explosive black powder, first discovered in China, that was used for fireworks", "sentence": "Ancient Chinese alchemists discovered gunpowder while searching for a potion to live forever."},
+        {"word": "archaeologist", "syllables": "ar-chae-ol-o-gist", "definition": "a scientist who studies the past by digging up and examining things people left behind", "sentence": "The archaeologist brushed the dirt away from a clay warrior's face."},
+        {"word": "terracotta", "syllables": "ter-ra-cot-ta", "definition": "a reddish-brown clay that is baked hard and used for pottery and statues", "sentence": "Thousands of terracotta soldiers guarded the First Emperor's tomb."},
+        {"word": "merchant", "syllables": "mer-chant", "definition": "a person who buys and sells goods to earn a living", "sentence": "The merchant traded rolls of silk for horses and silver."},
+        {"word": "fortification", "syllables": "for-ti-fi-ca-tion", "definition": "a wall, tower, or other strong structure built to defend a place from attack", "sentence": "The Great Wall was a fortification that protected China from northern raiders."}
+      ]
     }
   ]
 }
