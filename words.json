@@ -345,6 +345,21 @@
         {"word": "merchant", "syllables": "mer-chant", "definition": "a person who buys and sells goods to earn a living", "sentence": "The merchant traded rolls of silk for horses and silver."},
         {"word": "fortification", "syllables": "for-ti-fi-ca-tion", "definition": "a wall, tower, or other strong structure built to defend a place from attack", "sentence": "The Great Wall was a fortification that protected China from northern raiders."}
       ]
+    },
+    {
+      "date": "2026-10-21",
+      "words": [
+        {"word": "aerodynamics", "syllables": "aer-o-dy-nam-ics", "definition": "the science of how air moves around objects, such as wings, cars, and balls", "sentence": "Engineers study aerodynamics to design wings that create more lift and less drag."},
+        {"word": "propeller", "syllables": "pro-pel-ler", "definition": "a set of spinning blades that pushes air or water backwards to move a plane or boat forward", "sentence": "The bush plane's propeller roared as it pulled the floatplane across the lake."},
+        {"word": "fuselage", "syllables": "fu-se-lage", "definition": "the main body of an airplane, where the pilot, passengers, and cargo ride", "sentence": "The wings are attached to each side of the fuselage."},
+        {"word": "altitude", "syllables": "al-ti-tude", "definition": "the height of something above sea level or above the ground", "sentence": "The jet climbed to a cruising altitude of 11 000 metres."},
+        {"word": "turbulence", "syllables": "tur-bu-lence", "definition": "rough, uneven movement of air that makes an airplane bump and shake", "sentence": "The pilot asked everyone to fasten their seatbelts because of turbulence ahead."},
+        {"word": "aviation", "syllables": "a-vi-a-tion", "definition": "the designing, building, and flying of aircraft", "sentence": "The Wright brothers' first flight in 1903 began the age of aviation."},
+        {"word": "hangar", "syllables": "hang-ar", "definition": "a large building where airplanes are kept and repaired", "sentence": "Mechanics rolled the Beaver into the hangar to fix its engine before winter."},
+        {"word": "aileron", "syllables": "ai-le-ron", "definition": "a hinged flap on the back edge of a wing that moves up or down to make a plane roll and turn", "sentence": "When the pilot turned the controls, the left aileron tilted up and the plane banked to the left."},
+        {"word": "pressurized", "syllables": "pres-sur-ized", "definition": "kept at a higher air pressure inside than outside, so people can breathe normally high in the sky", "sentence": "The cabin is pressurized, so passengers can breathe easily far above the clouds."},
+        {"word": "horizontal", "syllables": "hor-i-zon-tal", "definition": "flat and level, going straight across from side to side like the horizon", "sentence": "In level flight, the wings stay almost horizontal to the ground."}
+      ]
     }
   ]
 }
