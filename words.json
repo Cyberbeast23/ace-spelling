@@ -360,6 +360,21 @@
         {"word": "pressurized", "syllables": "pres-sur-ized", "definition": "kept at a higher air pressure inside than outside, so people can breathe normally high in the sky", "sentence": "The cabin is pressurized, so passengers can breathe easily far above the clouds."},
         {"word": "horizontal", "syllables": "hor-i-zon-tal", "definition": "flat and level, going straight across from side to side like the horizon", "sentence": "In level flight, the wings stay almost horizontal to the ground."}
       ]
+    },
+    {
+      "date": "2026-10-22",
+      "words": [
+        {"word": "prospector", "syllables": "pros-pec-tor", "definition": "a person who searches an area for gold, silver, or other valuable minerals", "sentence": "The prospector swirled gravel in his pan, hoping to see a flash of gold."},
+        {"word": "nugget", "syllables": "nug-get", "definition": "a small, solid lump of gold or another precious metal found in the ground", "sentence": "Ace held the gold nugget in his palm and was amazed at how heavy it felt."},
+        {"word": "sluice", "syllables": "sluice", "definition": "a long wooden trough with running water that washes away gravel and traps heavy gold", "sentence": "The miners shovelled gravel into the sluice from sunrise until dark."},
+        {"word": "quartz", "syllables": "quartz", "definition": "a hard, common mineral, often white or clear, that is sometimes found with gold", "sentence": "A thin vein of gold sparkled inside the chunk of white quartz."},
+        {"word": "frontier", "syllables": "fron-tier", "definition": "the far edge of settled land, where few people have lived or travelled before", "sentence": "In the 1860s, the Cariboo was a wild frontier with no roads at first."},
+        {"word": "territory", "syllables": "ter-ri-to-ry", "definition": "a large area of land that belongs to or is controlled by a group or government", "sentence": "The miners crossed into the territory of the Nlaka'pamux without asking permission."},
+        {"word": "colonial", "syllables": "co-lo-ni-al", "definition": "having to do with a colony, an area ruled by a faraway country", "sentence": "The colonial government in New Westminster ordered a road to be built to the gold fields."},
+        {"word": "heritage", "syllables": "her-i-tage", "definition": "the history, traditions, and places handed down from people who lived before us", "sentence": "Barkerville is a heritage town where visitors can walk the old boardwalks."},
+        {"word": "merchandise", "syllables": "mer-chan-dise", "definition": "goods that are bought and sold in a store", "sentence": "The shopkeeper's merchandise, from flour to shovels, came north on mule trains."},
+        {"word": "immigrant", "syllables": "im-mi-grant", "definition": "a person who moves to a new country to live there", "sentence": "The young immigrant from Guangdong wrote home about the Gold Mountain."}
+      ]
     }
   ]
 }
