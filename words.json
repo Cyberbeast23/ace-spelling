@@ -375,6 +375,21 @@
         {"word": "merchandise", "syllables": "mer-chan-dise", "definition": "goods that are bought and sold in a store", "sentence": "The shopkeeper's merchandise, from flour to shovels, came north on mule trains."},
         {"word": "immigrant", "syllables": "im-mi-grant", "definition": "a person who moves to a new country to live there", "sentence": "The young immigrant from Guangdong wrote home about the Gold Mountain."}
       ]
+    },
+    {
+      "date": "2026-10-23",
+      "words": [
+        {"word": "reaction", "syllables": "re-ac-tion", "definition": "a change in which substances join or break apart to form new substances", "sentence": "The reaction between baking soda and vinegar filled the bottle with bubbles."},
+        {"word": "indicator", "syllables": "in-di-ca-tor", "definition": "a substance that changes colour to show whether something is an acid or a base", "sentence": "Ace used red-cabbage juice as an indicator, and it turned pink in the lemon juice."},
+        {"word": "molecule", "syllables": "mol-e-cule", "definition": "the smallest particle of a substance, made of atoms joined together", "sentence": "A single molecule of water is far too tiny to see, even with a magnifying glass."},
+        {"word": "carbonate", "syllables": "car-bon-ate", "definition": "a type of chemical compound that gives off carbon dioxide gas when it reacts with an acid", "sentence": "Eggshells are made mostly of a carbonate, so they slowly fizz when soaked in vinegar."},
+        {"word": "neutral", "syllables": "neu-tral", "definition": "neither an acid nor a base, with a pH of 7", "sentence": "Pure water is neutral, so the cabbage juice stayed purple."},
+        {"word": "dissolve", "syllables": "dis-solve", "definition": "to mix into a liquid so completely that it seems to disappear", "sentence": "Stir the sugar until it dissolves in the warm water."},
+        {"word": "mixture", "syllables": "mix-ture", "definition": "two or more substances combined together without forming a new substance", "sentence": "Sand and salt make a mixture that you can separate with water and a filter."},
+        {"word": "acidic", "syllables": "a-cid-ic", "definition": "containing acid; having a pH lower than 7 and often tasting sour", "sentence": "Lemon juice is so acidic that it makes your mouth pucker."},
+        {"word": "experiment", "syllables": "ex-per-i-ment", "definition": "a careful test done to find out something or to check an idea", "sentence": "Our experiment showed that warm vinegar fizzed faster than cold vinegar."},
+        {"word": "laboratory", "syllables": "lab-o-ra-to-ry", "definition": "a room or building with special equipment where scientists do experiments", "sentence": "Everyone in the laboratory wore safety goggles before mixing the chemicals."}
+      ]
     }
   ]
 }
