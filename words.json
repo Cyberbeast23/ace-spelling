@@ -390,6 +390,21 @@
         {"word": "experiment", "syllables": "ex-per-i-ment", "definition": "a careful test done to find out something or to check an idea", "sentence": "Our experiment showed that warm vinegar fizzed faster than cold vinegar."},
         {"word": "laboratory", "syllables": "lab-o-ra-to-ry", "definition": "a room or building with special equipment where scientists do experiments", "sentence": "Everyone in the laboratory wore safety goggles before mixing the chemicals."}
       ]
+    },
+    {
+      "date": "2026-10-24",
+      "words": [
+        {"word": "animation", "syllables": "an-i-ma-tion", "definition": "the art of making drawings, models, or computer images look as if they are moving", "sentence": "Ace's first animation was a stick figure waving from the corner of a sticky-note pad."},
+        {"word": "silhouette", "syllables": "sil-hou-ette", "definition": "a dark outline or shape of something seen against a lighter background", "sentence": "The cartoon opened with the silhouette of a cat on a rooftop under the full moon."},
+        {"word": "storyboard", "syllables": "sto-ry-board", "definition": "a series of sketches, like a comic strip, that plans each shot of a film or cartoon", "sentence": "Before drawing a single frame, the team pinned the storyboard to the studio wall."},
+        {"word": "persistence", "syllables": "per-sis-tence", "definition": "the quality of continuing to try even when something is difficult", "sentence": "It took real persistence to photograph the clay dog 240 times for one short scene."},
+        {"word": "caricature", "syllables": "car-i-ca-ture", "definition": "a funny drawing of a person that exaggerates some of their features", "sentence": "The artist drew a caricature of the coach with a giant whistle and tiny feet."},
+        {"word": "perspective", "syllables": "per-spec-tive", "definition": "a way of drawing that makes flat pictures look deep, with faraway things smaller", "sentence": "Using perspective, Ace made the road shrink to a point on the horizon."},
+        {"word": "continuity", "syllables": "con-ti-nu-i-ty", "definition": "keeping details the same from one shot or scene to the next so a story makes sense", "sentence": "For continuity, the hero's scarf had to be the same colour in every scene."},
+        {"word": "choreography", "syllables": "chor-e-og-ra-phy", "definition": "the planning of the steps and movements in a dance or action scene", "sentence": "The choreography of the chase scene had the squirrel leaping from branch to branch in perfect rhythm."},
+        {"word": "symmetrical", "syllables": "sym-met-ri-cal", "definition": "having two halves that match exactly, like mirror images", "sentence": "The robot's face was perfectly symmetrical, with one round eye on each side."},
+        {"word": "illustration", "syllables": "il-lus-tra-tion", "definition": "a picture or drawing that explains or decorates a book, story, or article", "sentence": "Each page of the picture book had a bright illustration of the dragon."}
+      ]
     }
   ]
 }
