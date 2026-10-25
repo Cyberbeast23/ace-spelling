@@ -405,6 +405,21 @@
         {"word": "symmetrical", "syllables": "sym-met-ri-cal", "definition": "having two halves that match exactly, like mirror images", "sentence": "The robot's face was perfectly symmetrical, with one round eye on each side."},
         {"word": "illustration", "syllables": "il-lus-tra-tion", "definition": "a picture or drawing that explains or decorates a book, story, or article", "sentence": "Each page of the picture book had a bright illustration of the dragon."}
       ]
+    },
+    {
+      "date": "2026-10-25",
+      "words": [
+        {"word": "arthropod", "syllables": "ar-thro-pod", "definition": "an animal with jointed legs, a body in segments, and a hard outer covering, such as an insect, spider or crab", "sentence": "Marrella was a tiny arthropod with long, feathery antennae."},
+        {"word": "invertebrate", "syllables": "in-ver-te-brate", "definition": "an animal that has no backbone", "sentence": "Worms, jellyfish and shrimp are all invertebrates."},
+        {"word": "trilobite", "syllables": "tri-lo-bite", "definition": "an extinct sea arthropod whose body was divided into three long sections", "sentence": "Ace split the rock and found a trilobite no bigger than his thumbnail."},
+        {"word": "carapace", "syllables": "car-a-pace", "definition": "the hard shell that covers the back of animals such as crabs and turtles", "sentence": "The crab's carapace protected its soft body from hungry predators."},
+        {"word": "appendage", "syllables": "ap-pen-dage", "definition": "a body part, such as a leg, arm, fin or antenna, that sticks out from the main body", "sentence": "Anomalocaris grabbed its prey with two spiny appendages."},
+        {"word": "specimen", "syllables": "spec-i-men", "definition": "one example of something, collected so it can be studied", "sentence": "The museum keeps every fossil specimen in a labelled drawer."},
+        {"word": "preservation", "syllables": "pres-er-va-tion", "definition": "keeping something safe from damage or decay so it lasts", "sentence": "The fine mud allowed the amazing preservation of soft body parts."},
+        {"word": "extinction", "syllables": "ex-tinc-tion", "definition": "the dying out of a whole kind of living thing, so none are left", "sentence": "Scientists study fossils to learn what caused the extinction of ancient animals."},
+        {"word": "microscopic", "syllables": "mi-cro-scop-ic", "definition": "so tiny that it can only be seen with a microscope", "sentence": "Some Cambrian fossils are microscopic, so scientists study them under a lens."},
+        {"word": "proboscis", "syllables": "pro-bos-cis", "definition": "a long, flexible nose or tube-like mouth part of an animal", "sentence": "Opabinia used the claw on its proboscis to snatch food from the mud."}
+      ]
     }
   ]
 }
