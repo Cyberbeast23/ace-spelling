@@ -420,6 +420,21 @@
         {"word": "microscopic", "syllables": "mi-cro-scop-ic", "definition": "so tiny that it can only be seen with a microscope", "sentence": "Some Cambrian fossils are microscopic, so scientists study them under a lens."},
         {"word": "proboscis", "syllables": "pro-bos-cis", "definition": "a long, flexible nose or tube-like mouth part of an animal", "sentence": "Opabinia used the claw on its proboscis to snatch food from the mud."}
       ]
+    },
+    {
+      "date": "2026-10-26",
+      "words": [
+        {"word": "ambulance", "syllables": "am-bu-lance", "definition": "a vehicle with medical equipment that carries sick or injured people to hospital", "sentence": "The ambulance turned on its siren and pulled away from the curb."},
+        {"word": "emergency", "syllables": "e-mer-gen-cy", "definition": "a serious, sudden situation that needs action right away", "sentence": "In an emergency in Canada, you should call 9-1-1."},
+        {"word": "cardiac", "syllables": "car-di-ac", "definition": "having to do with the heart", "sentence": "The nurse watched the cardiac monitor beep with every heartbeat."},
+        {"word": "stretcher", "syllables": "stretch-er", "definition": "a flat, padded bed with handles or wheels for carrying a patient", "sentence": "Two paramedics lifted the stretcher gently into the ambulance."},
+        {"word": "paramedic", "syllables": "par-a-med-ic", "definition": "a trained medical worker who gives emergency care on the way to hospital", "sentence": "The paramedic counted the patient's pulse and smiled to calm him."},
+        {"word": "dispatcher", "syllables": "dis-patch-er", "definition": "a person who answers emergency calls and sends help where it is needed", "sentence": "The dispatcher asked Ace for the exact address of the park."},
+        {"word": "unconscious", "syllables": "un-con-scious", "definition": "not awake and not aware of what is happening around you", "sentence": "The lifeguard checked whether the swimmer was conscious or unconscious."},
+        {"word": "respiratory", "syllables": "res-pi-ra-to-ry", "definition": "having to do with breathing and the lungs", "sentence": "A respiratory therapist helps patients who have trouble breathing."},
+        {"word": "defibrillator", "syllables": "de-fib-ril-la-tor", "definition": "a machine that gives the heart an electric shock to restore a normal heartbeat", "sentence": "The arena keeps a defibrillator in a red box near the front doors."},
+        {"word": "resuscitation", "syllables": "re-sus-ci-ta-tion", "definition": "the act of reviving someone whose heart or breathing has stopped", "sentence": "CPR stands for cardiopulmonary resuscitation."}
+      ]
     }
   ]
 }
