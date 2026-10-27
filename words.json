@@ -435,6 +435,21 @@
         {"word": "defibrillator", "syllables": "de-fib-ril-la-tor", "definition": "a machine that gives the heart an electric shock to restore a normal heartbeat", "sentence": "The arena keeps a defibrillator in a red box near the front doors."},
         {"word": "resuscitation", "syllables": "re-sus-ci-ta-tion", "definition": "the act of reviving someone whose heart or breathing has stopped", "sentence": "CPR stands for cardiopulmonary resuscitation."}
       ]
+    },
+    {
+      "date": "2026-10-27",
+      "words": [
+        {"word": "latitude", "syllables": "lat-i-tude", "definition": "the distance of a place north or south of the equator, measured in degrees", "sentence": "Vancouver is at a latitude of about 49 degrees north."},
+        {"word": "longitude", "syllables": "lon-gi-tude", "definition": "the distance of a place east or west of the Prime Meridian, measured in degrees", "sentence": "Sailors used an accurate clock to work out their longitude at sea."},
+        {"word": "meridian", "syllables": "me-rid-i-an", "definition": "an imaginary line on Earth running from the North Pole to the South Pole", "sentence": "The Prime Meridian runs through Greenwich, England."},
+        {"word": "hemisphere", "syllables": "hem-i-sphere", "definition": "one half of Earth, such as the northern or southern half", "sentence": "Canada is in the Northern Hemisphere, so our winter is Australia's summer."},
+        {"word": "cartographer", "syllables": "car-tog-ra-pher", "definition": "a person who draws or makes maps", "sentence": "The cartographer added a scale bar and a compass rose to the new trail map."},
+        {"word": "archipelago", "syllables": "ar-chi-pel-a-go", "definition": "a large group of islands close together", "sentence": "Haida Gwaii is an archipelago off the north coast of BC."},
+        {"word": "peninsula", "syllables": "pe-nin-su-la", "definition": "a piece of land almost completely surrounded by water", "sentence": "We hiked to the tip of the peninsula and saw water on three sides."},
+        {"word": "triangulation", "syllables": "tri-an-gu-la-tion", "definition": "finding a location by measuring angles or distances from two or more known points", "sentence": "Using triangulation, the surveyors pinpointed the top of the mountain."},
+        {"word": "topographic", "syllables": "top-o-graph-ic", "definition": "showing the shape and height of the land, such as hills and valleys", "sentence": "The topographic map used contour lines to show how steep the trail was."},
+        {"word": "chronometer", "syllables": "chro-nom-e-ter", "definition": "a very accurate clock, especially one used to find longitude at sea", "sentence": "Captain Cook's chronometer helped him chart the coast of the Pacific Northwest."}
+      ]
     }
   ]
 }
