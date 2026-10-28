@@ -450,6 +450,21 @@
         {"word": "topographic", "syllables": "top-o-graph-ic", "definition": "showing the shape and height of the land, such as hills and valleys", "sentence": "The topographic map used contour lines to show how steep the trail was."},
         {"word": "chronometer", "syllables": "chro-nom-e-ter", "definition": "a very accurate clock, especially one used to find longitude at sea", "sentence": "Captain Cook's chronometer helped him chart the coast of the Pacific Northwest."}
       ]
+    },
+    {
+      "date": "2026-10-28",
+      "words": [
+        {"word": "actuator", "syllables": "ac-tu-a-tor", "definition": "the part of a machine that makes something move, such as a motor or a piston", "sentence": "The robot's actuator turned its wrist so it could tighten the bolt."},
+        {"word": "autonomous", "syllables": "au-ton-o-mous", "definition": "able to act and make decisions on its own, without being controlled", "sentence": "The autonomous rover chose its own safe path around the boulders on Mars."},
+        {"word": "hydraulic", "syllables": "hy-drau-lic", "definition": "moved or powered by a liquid, such as oil, being pushed through tubes", "sentence": "A hydraulic arm on the excavator lifted the heavy rocks easily."},
+        {"word": "pneumatic", "syllables": "pneu-mat-ic", "definition": "moved or powered by air being pushed under pressure", "sentence": "The factory robot used a pneumatic gripper that hissed each time it grabbed a box."},
+        {"word": "mechanism", "syllables": "mech-a-nism", "definition": "a set of moving parts that work together to do a job", "sentence": "Ace opened the old clock to see the tiny gears inside its mechanism."},
+        {"word": "gyroscope", "syllables": "gy-ro-scope", "definition": "a spinning device that helps a machine sense tilting and keep its balance", "sentence": "A gyroscope helps the two-wheeled robot stay upright without falling over."},
+        {"word": "artificial", "syllables": "ar-ti-fi-cial", "definition": "made by people instead of happening naturally", "sentence": "The robot dog was covered in soft artificial fur."},
+        {"word": "calibrate", "syllables": "cal-i-brate", "definition": "to test and adjust an instrument so its measurements are accurate", "sentence": "Before the competition, the team had to calibrate the robot's light sensor."},
+        {"word": "manipulate", "syllables": "ma-nip-u-late", "definition": "to handle, move or control something skilfully, often with the hands", "sentence": "Canadarm2 can manipulate huge pieces of the space station with great care."},
+        {"word": "intelligence", "syllables": "in-tel-li-gence", "definition": "the ability to learn, understand and solve problems", "sentence": "Scientists are still trying to give robots the intelligence to fold laundry."}
+      ]
     }
   ]
 }
