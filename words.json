@@ -465,6 +465,21 @@
         {"word": "manipulate", "syllables": "ma-nip-u-late", "definition": "to handle, move or control something skilfully, often with the hands", "sentence": "Canadarm2 can manipulate huge pieces of the space station with great care."},
         {"word": "intelligence", "syllables": "in-tel-li-gence", "definition": "the ability to learn, understand and solve problems", "sentence": "Scientists are still trying to give robots the intelligence to fold laundry."}
       ]
+    },
+    {
+      "date": "2026-10-29",
+      "words": [
+        {"word": "philosopher", "syllables": "phi-los-o-pher", "definition": "a person who studies big questions about life, knowledge, and right and wrong", "sentence": "The Greek philosopher Socrates taught by asking his students question after question."},
+        {"word": "mythology", "syllables": "my-thol-o-gy", "definition": "a collection of traditional stories, often about gods and heroes, that a culture uses to explain the world", "sentence": "In Greek mythology, Zeus throws lightning bolts from Mount Olympus."},
+        {"word": "architecture", "syllables": "ar-chi-tec-ture", "definition": "the art and science of designing buildings, or the style of a building", "sentence": "The tall marble columns are a famous feature of ancient Greek architecture."},
+        {"word": "athlete", "syllables": "ath-lete", "definition": "a person who trains and competes in sports", "sentence": "Each athlete at Olympia swore an oath to compete fairly."},
+        {"word": "oracle", "syllables": "or-a-cle", "definition": "a person or place believed to give wise advice or predictions from the gods", "sentence": "Travellers climbed the mountain to ask the oracle at Delphi about their future."},
+        {"word": "ostracize", "syllables": "os-tra-cize", "definition": "to shut someone out of a group; in ancient Athens, to vote to send a citizen away for ten years", "sentence": "Athenians scratched a name on a piece of pottery to vote to ostracize a powerful leader."},
+        {"word": "hypotenuse", "syllables": "hy-pot-e-nuse", "definition": "the longest side of a right triangle, across from the right angle", "sentence": "Pythagoras discovered a rule for finding the length of the hypotenuse."},
+        {"word": "acropolis", "syllables": "a-crop-o-lis", "definition": "a fortified hilltop area in an ancient Greek city, often with temples", "sentence": "The Parthenon still stands on the Acropolis high above Athens."},
+        {"word": "tyranny", "syllables": "tyr-an-ny", "definition": "cruel and unfair rule by one person who holds all the power", "sentence": "The citizens of Athens built a democracy to protect themselves from tyranny."},
+        {"word": "pentathlon", "syllables": "pen-tath-lon", "definition": "an athletic contest made up of five different events", "sentence": "The ancient pentathlon included running, jumping, wrestling, and throwing the discus and javelin."}
+      ]
     }
   ]
 }
