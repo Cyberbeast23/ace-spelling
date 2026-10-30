@@ -480,6 +480,21 @@
         {"word": "tyranny", "syllables": "tyr-an-ny", "definition": "cruel and unfair rule by one person who holds all the power", "sentence": "The citizens of Athens built a democracy to protect themselves from tyranny."},
         {"word": "pentathlon", "syllables": "pen-tath-lon", "definition": "an athletic contest made up of five different events", "sentence": "The ancient pentathlon included running, jumping, wrestling, and throwing the discus and javelin."}
       ]
+    },
+    {
+      "date": "2026-10-30",
+      "words": [
+        {"word": "nocturnal", "syllables": "noc-tur-nal", "definition": "active mainly at night and resting during the day", "sentence": "Bats and owls are nocturnal, so they hunt while most people are asleep."},
+        {"word": "echolocation", "syllables": "ech-o-lo-ca-tion", "definition": "finding objects by sending out sounds and listening for the echoes that bounce back", "sentence": "The little brown bat used echolocation to find a moth in total darkness."},
+        {"word": "camouflage", "syllables": "cam-ou-flage", "definition": "colours or patterns that help an animal blend in with its surroundings", "sentence": "The owl's brown and grey feathers were perfect camouflage against the tree bark."},
+        {"word": "ultrasonic", "syllables": "ul-tra-son-ic", "definition": "describing sound that is too high for human ears to hear", "sentence": "Most bat calls are ultrasonic, so the night seems silent to us."},
+        {"word": "hibernation", "syllables": "hi-ber-na-tion", "definition": "a long, deep sleep some animals go into to survive the winter", "sentence": "During hibernation, a bat's heart slows to only a few beats each minute."},
+        {"word": "membrane", "syllables": "mem-brane", "definition": "a thin, flexible layer of skin or tissue", "sentence": "A bat's wing is a thin membrane of skin stretched between long finger bones."},
+        {"word": "insectivore", "syllables": "in-sec-ti-vore", "definition": "an animal that eats mainly insects", "sentence": "As an insectivore, one bat can eat over a thousand insects in a single night."},
+        {"word": "vertebrate", "syllables": "ver-te-brate", "definition": "an animal that has a backbone", "sentence": "Owls, bats and people are all vertebrates, but a moth is not."},
+        {"word": "retina", "syllables": "ret-i-na", "definition": "the layer at the back of the eye that senses light and sends signals to the brain", "sentence": "An owl's retina is packed with cells that work well in dim light."},
+        {"word": "bioluminescence", "syllables": "bi-o-lu-mi-nes-cence", "definition": "light made by a living thing, such as a firefly or a deep-sea fish", "sentence": "On a dark beach, the waves sparkled with the bioluminescence of tiny sea creatures."}
+      ]
     }
   ]
 }
