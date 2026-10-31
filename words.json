@@ -495,6 +495,21 @@
         {"word": "retina", "syllables": "ret-i-na", "definition": "the layer at the back of the eye that senses light and sends signals to the brain", "sentence": "An owl's retina is packed with cells that work well in dim light."},
         {"word": "bioluminescence", "syllables": "bi-o-lu-mi-nes-cence", "definition": "light made by a living thing, such as a firefly or a deep-sea fish", "sentence": "On a dark beach, the waves sparkled with the bioluminescence of tiny sea creatures."}
       ]
+    },
+    {
+      "date": "2026-10-31",
+      "words": [
+        {"word": "ichthyosaur", "syllables": "ich-thy-o-saur", "definition": "an extinct sea reptile with a dolphin-like body, flippers and a fish-shaped tail", "sentence": "The ichthyosaur found in northeastern BC was about 21 metres long."},
+        {"word": "plesiosaur", "syllables": "ple-si-o-saur", "definition": "an extinct sea reptile with a wide body, four large flippers and often a very long neck", "sentence": "The plesiosaur stretched its long neck toward a school of fish."},
+        {"word": "carnivorous", "syllables": "car-niv-o-rous", "definition": "eating mainly meat or other animals", "sentence": "Mosasaurs were carnivorous reptiles that hunted fish, squid and even other sea reptiles."},
+        {"word": "streamlined", "syllables": "stream-lined", "definition": "having a smooth shape that moves easily through water or air", "sentence": "An ichthyosaur's streamlined body helped it swim as fast as a dolphin."},
+        {"word": "aquatic", "syllables": "a-quat-ic", "definition": "living or growing in water", "sentence": "Ichthyosaurs were fully aquatic, so they never came onto land, not even to give birth."},
+        {"word": "skeletal", "syllables": "skel-e-tal", "definition": "having to do with the bones of a body", "sentence": "The museum's skeletal model shows every bone in the elasmosaur's neck."},
+        {"word": "sedimentary", "syllables": "sed-i-men-ta-ry", "definition": "describing rock formed from layers of mud, sand or shells pressed together over a long time", "sentence": "Most fossils are found in sedimentary rock that was once the bottom of a sea."},
+        {"word": "descendant", "syllables": "de-scen-dant", "definition": "a living thing that comes from a certain ancestor", "sentence": "Scientists say a modern chicken is a descendant of the dinosaurs."},
+        {"word": "evolution", "syllables": "ev-o-lu-tion", "definition": "the slow change of living things over many generations", "sentence": "Over millions of years, evolution turned the legs of land reptiles into flippers."},
+        {"word": "anatomy", "syllables": "a-nat-o-my", "definition": "the structure of a body and how its parts fit together", "sentence": "By studying the anatomy of the skull, scientists learned that the reptile had huge eyes."}
+      ]
     }
   ]
 }
