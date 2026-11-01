@@ -510,6 +510,21 @@
         {"word": "evolution", "syllables": "ev-o-lu-tion", "definition": "the slow change of living things over many generations", "sentence": "Over millions of years, evolution turned the legs of land reptiles into flippers."},
         {"word": "anatomy", "syllables": "a-nat-o-my", "definition": "the structure of a body and how its parts fit together", "sentence": "By studying the anatomy of the skull, scientists learned that the reptile had huge eyes."}
       ]
+    },
+    {
+      "date": "2026-11-01",
+      "words": [
+        {"word": "budget", "syllables": "bud-get", "definition": "a plan that shows how much money you will earn, spend and save", "sentence": "Ace made a budget so he could save 30% of his dog-walking money every month."},
+        {"word": "interest", "syllables": "in-ter-est", "definition": "extra money a bank pays you for saving, or that you pay when you borrow", "sentence": "After a year, the bank paid Ace three dollars of interest on his savings."},
+        {"word": "currency", "syllables": "cur-ren-cy", "definition": "the kind of money used in a country", "sentence": "Canada's currency is the Canadian dollar, which includes the loonie and the toonie."},
+        {"word": "economy", "syllables": "e-con-o-my", "definition": "the way a country or region makes, buys, sells and uses goods, services and money", "sentence": "Forestry, fishing and tourism are important parts of British Columbia's economy."},
+        {"word": "investment", "syllables": "in-vest-ment", "definition": "money put into something in the hope that it will grow or earn more money later", "sentence": "Buying a better rake was a smart investment for Ace's leaf-raking business."},
+        {"word": "inflation", "syllables": "in-fla-tion", "definition": "a general rise in prices over time, so the same money buys less", "sentence": "Because of inflation, a chocolate bar costs more today than it did when Dad was a kid."},
+        {"word": "percentage", "syllables": "per-cent-age", "definition": "an amount described as a part of 100", "sentence": "What percentage of your allowance do you put into your savings account?"},
+        {"word": "mortgage", "syllables": "mort-gage", "definition": "a large loan from a bank used to buy a house, paid back over many years with interest", "sentence": "The family will pay off their mortgage over twenty-five years."},
+        {"word": "cheque", "syllables": "cheque", "definition": "a signed paper that tells a bank to pay money from your account to someone (Canadian spelling)", "sentence": "Grandma wrote Ace a birthday cheque, and he deposited it at the bank."},
+        {"word": "entrepreneur", "syllables": "en-tre-pre-neur", "definition": "a person who starts and runs a new business, taking a risk to earn a profit", "sentence": "At age ten, Ace became an entrepreneur when he opened a lemonade stand."}
+      ]
     }
   ]
 }
