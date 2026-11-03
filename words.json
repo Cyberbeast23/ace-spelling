@@ -540,6 +540,21 @@
         {"word": "understorey", "syllables": "un-der-sto-rey", "definition": "the layer of small trees and shrubs that grows beneath a forest's tall canopy (Canadian spelling)", "sentence": "Ferns and huckleberry bushes fill the shady understorey of the rainforest."},
         {"word": "decomposer", "syllables": "de-com-pos-er", "definition": "a living thing, such as a fungus or bacterium, that breaks down dead plants and animals", "sentence": "Fungi are decomposers that slowly turn a fallen log into rich soil."}
       ]
+    },
+    {
+      "date": "2026-11-03",
+      "words": [
+        {"word": "portcullis", "syllables": "port-cul-lis", "definition": "a heavy iron or wooden grate that slides down to block a castle gateway", "sentence": "The guards dropped the portcullis with a clang just before the enemy reached the gate."},
+        {"word": "battlement", "syllables": "bat-tle-ment", "definition": "a low wall along the top of a castle with gaps that archers could shoot through", "sentence": "Ace pretended to be an archer peeking out from behind the battlement."},
+        {"word": "siege", "syllables": "siege", "definition": "surrounding a castle or town to cut off supplies and force the people inside to give up", "sentence": "The castle survived the siege because it had a deep well and a full storeroom."},
+        {"word": "medieval", "syllables": "me-di-e-val", "definition": "from the Middle Ages, the period in Europe from about 500 to 1500", "sentence": "The museum displayed a medieval helmet that was more than 700 years old."},
+        {"word": "feudalism", "syllables": "feu-dal-ism", "definition": "the medieval system in which lords gave land to people in return for loyalty, work or military service", "sentence": "Under feudalism, a knight promised to fight for his lord in exchange for land."},
+        {"word": "chivalry", "syllables": "chiv-al-ry", "definition": "the code of honour knights were expected to follow, including bravery, kindness and loyalty", "sentence": "Holding the door for the whole class was a small act of chivalry."},
+        {"word": "trebuchet", "syllables": "treb-u-chet", "definition": "a huge medieval throwing machine that used a falling counterweight to hurl stones", "sentence": "The trebuchet flung a boulder high over the castle moat."},
+        {"word": "garrison", "syllables": "gar-ri-son", "definition": "a group of soldiers stationed in a castle or fort to defend it", "sentence": "The garrison kept watch from the towers all through the night."},
+        {"word": "heraldry", "syllables": "her-ald-ry", "definition": "the system of designing coats of arms and symbols for families and knights", "sentence": "Ace used heraldry to design a shield with a gold lion on a blue background."},
+        {"word": "armour", "syllables": "ar-mour", "definition": "a protective covering of metal worn by soldiers and knights in battle (Canadian spelling)", "sentence": "A full suit of armour could weigh more than 20 kilograms."}
+      ]
     }
   ]
 }
