@@ -570,6 +570,21 @@
         {"word": "commuter", "syllables": "com-mut-er", "definition": "a person who travels regularly between home and work or school", "sentence": "Every morning, a commuter in a yellow jacket rides past our house on the way to work."},
         {"word": "traction", "syllables": "trac-tion", "definition": "the grip that stops a wheel or shoe from slipping on a surface", "sentence": "Knobby tires give a mountain bike better traction on wet, muddy trails."}
       ]
+    },
+    {
+      "date": "2026-11-05",
+      "words": [
+        {"word": "visible", "syllables": "vis-i-ble", "definition": "able to be seen", "sentence": "On a clear night, thousands of stars are visible from the mountain campsite."},
+        {"word": "cornea", "syllables": "cor-ne-a", "definition": "the clear, curved layer on the front of the eye that lets light in and helps focus it", "sentence": "Light passes through the cornea before it reaches the pupil."},
+        {"word": "optical", "syllables": "op-ti-cal", "definition": "having to do with eyesight, light, or lenses", "sentence": "A microscope is an optical tool that makes tiny things look much bigger."},
+        {"word": "spectacles", "syllables": "spec-ta-cles", "definition": "an old-fashioned word for eyeglasses; also, amazing sights", "sentence": "Grandpa pushed his spectacles up his nose and read the map."},
+        {"word": "illusion", "syllables": "il-lu-sion", "definition": "something that tricks your eyes or mind into seeing something that is not really there", "sentence": "In the optical illusion, two lines of the same length looked completely different."},
+        {"word": "transparent", "syllables": "trans-par-ent", "definition": "clear enough that light passes through and you can see through it", "sentence": "The cornea is as transparent as a clean window pane."},
+        {"word": "peripheral", "syllables": "pe-riph-er-al", "definition": "at the edge or outside part; peripheral vision is what you see out of the corners of your eyes", "sentence": "Ace spotted the soccer ball rolling toward him with his peripheral vision."},
+        {"word": "refraction", "syllables": "re-frac-tion", "definition": "the bending of light as it passes from one material into another, such as from air into water or glass", "sentence": "Refraction makes a straw in a glass of water look broken."},
+        {"word": "optometrist", "syllables": "op-tom-e-trist", "definition": "a health professional who examines eyes, tests vision, and prescribes glasses or contact lenses", "sentence": "The optometrist asked Ace to read the smallest letters on the chart."},
+        {"word": "astigmatism", "syllables": "a-stig-ma-tism", "definition": "an eye condition in which the cornea or lens is curved unevenly, so things look blurry or stretched", "sentence": "Her astigmatism made the street signs look fuzzy until she got new glasses."}
+      ]
     }
   ]
 }
