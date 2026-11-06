@@ -585,6 +585,21 @@
         {"word": "optometrist", "syllables": "op-tom-e-trist", "definition": "a health professional who examines eyes, tests vision, and prescribes glasses or contact lenses", "sentence": "The optometrist asked Ace to read the smallest letters on the chart."},
         {"word": "astigmatism", "syllables": "a-stig-ma-tism", "definition": "an eye condition in which the cornea or lens is curved unevenly, so things look blurry or stretched", "sentence": "Her astigmatism made the street signs look fuzzy until she got new glasses."}
       ]
+    },
+    {
+      "date": "2026-11-06",
+      "words": [
+        {"word": "fossilization", "syllables": "fos-sil-i-za-tion", "definition": "the natural process that turns the remains of a plant or animal into a fossil over a very long time", "sentence": "Fossilization of a dinosaur skeleton can take millions of years as minerals slowly replace the bone."},
+        {"word": "Cretaceous", "syllables": "Cre-ta-ceous", "definition": "the last period of the Mesozoic Era, when Tyrannosaurus rex lived, ending about 66 million years ago", "sentence": "Tyrannosaurus rex lived near the end of the Cretaceous Period."},
+        {"word": "excavation", "syllables": "ex-ca-va-tion", "definition": "the careful digging of a site to uncover buried objects such as fossils or ruins", "sentence": "The excavation of the Alberta badlands took the crew three summers to finish."},
+        {"word": "Mesozoic", "syllables": "Mes-o-zo-ic", "definition": "the era of Earth's history known as the Age of Dinosaurs, lasting from about 252 to 66 million years ago", "sentence": "Dinosaurs ruled the land for most of the Mesozoic Era."},
+        {"word": "amber", "syllables": "am-ber", "definition": "hardened tree resin that sometimes traps insects or plants and preserves them as fossils", "sentence": "An insect trapped in amber can look almost the same after millions of years."},
+        {"word": "stratigraphy", "syllables": "stra-tig-ra-phy", "definition": "the study of rock layers; older layers are usually found beneath younger ones", "sentence": "Stratigraphy helped the team date the fossil by mapping the rock layers around it."},
+        {"word": "tyrannosaur", "syllables": "ty-ran-no-saur", "definition": "a large, meat-eating dinosaur with a huge skull and strong hind legs, such as Tyrannosaurus rex", "sentence": "The tyrannosaur's powerful jaws could crush bone with a single bite."},
+        {"word": "reconstruction", "syllables": "re-con-struc-tion", "definition": "the process of rebuilding or assembling something from pieces, such as putting a skeleton back together", "sentence": "The museum's reconstruction of the T. rex took years of careful work."},
+        {"word": "palaeontologist", "syllables": "pal-ae-on-tol-o-gist", "definition": "a scientist who studies fossils to learn about ancient life (Canadian spelling with ae)", "sentence": "The palaeontologist brushed sand away from a vertebra the size of a dinner plate."},
+        {"word": "theropod", "syllables": "ther-o-pod", "definition": "a group of mostly meat-eating dinosaurs that walked on two legs, including Tyrannosaurus and modern birds' ancestors", "sentence": "A theropod leaves three-toed footprints that look a little like a giant bird's."}
+      ]
     }
   ]
 }
