@@ -600,6 +600,21 @@
         {"word": "palaeontologist", "syllables": "pal-ae-on-tol-o-gist", "definition": "a scientist who studies fossils to learn about ancient life (Canadian spelling with ae)", "sentence": "The palaeontologist brushed sand away from a vertebra the size of a dinner plate."},
         {"word": "theropod", "syllables": "ther-o-pod", "definition": "a group of mostly meat-eating dinosaurs that walked on two legs, including Tyrannosaurus and modern birds' ancestors", "sentence": "A theropod leaves three-toed footprints that look a little like a giant bird's."}
       ]
+    },
+    {
+      "date": "2026-11-07",
+      "words": [
+        {"word": "aurora", "syllables": "au-ro-ra", "definition": "a natural display of coloured lights in the sky near the poles, caused by particles from the Sun hitting Earth's atmosphere", "sentence": "We watched a green aurora dance across the Yukon sky for almost an hour."},
+        {"word": "magnetosphere", "syllables": "mag-ne-to-sphere", "definition": "the region of space around Earth controlled by Earth's magnetic field, which shields us from the solar wind", "sentence": "Earth's magnetosphere deflects most of the solar wind before it can reach the ground."},
+        {"word": "ionosphere", "syllables": "i-on-o-sphere", "definition": "a layer of Earth's upper atmosphere filled with charged particles where auroras often glow", "sentence": "The aurora forms when solar particles excite gases in the ionosphere."},
+        {"word": "luminescence", "syllables": "lu-mi-nes-cence", "definition": "the giving off of light by a substance that is not hot enough to burn", "sentence": "The luminescence of the northern lights can turn the whole night sky green."},
+        {"word": "geomagnetic", "syllables": "ge-o-mag-net-ic", "definition": "related to Earth's magnetic field", "sentence": "A geomagnetic storm can make the aurora visible much farther south than usual."},
+        {"word": "fluorescence", "syllables": "flu-o-res-cence", "definition": "a glow that appears when a substance absorbs energy and then quickly releases it as light", "sentence": "Oxygen in the upper air creates the green fluorescence of many auroras."},
+        {"word": "celestial", "syllables": "ce-les-tial", "definition": "having to do with the sky or outer space", "sentence": "Auroras are one of Earth's most beautiful celestial shows."},
+        {"word": "luminous", "syllables": "lu-mi-nous", "definition": "giving off light; glowing brightly", "sentence": "The luminous curtains of light seemed to hang just above the treetops."},
+        {"word": "plasma", "syllables": "plas-ma", "definition": "a hot, electrically charged gas made of free electrons and ions; the solar wind is a plasma", "sentence": "The solar wind is a stream of plasma racing away from the Sun."},
+        {"word": "corona", "syllables": "co-ro-na", "definition": "the Sun's outer atmosphere, which is the source of the solar wind", "sentence": "During a total solar eclipse you can see the Sun's glowing corona."}
+      ]
     }
   ]
 }
