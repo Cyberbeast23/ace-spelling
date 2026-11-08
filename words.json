@@ -615,6 +615,21 @@
         {"word": "plasma", "syllables": "plas-ma", "definition": "a hot, electrically charged gas made of free electrons and ions; the solar wind is a plasma", "sentence": "The solar wind is a stream of plasma racing away from the Sun."},
         {"word": "corona", "syllables": "co-ro-na", "definition": "the Sun's outer atmosphere, which is the source of the solar wind", "sentence": "During a total solar eclipse you can see the Sun's glowing corona."}
       ]
+    },
+    {
+      "date": "2026-11-08",
+      "words": [
+        {"word": "navigation", "syllables": "nav-i-ga-tion", "definition": "the skill of planning and steering a route, especially across the sea", "sentence": "Norse sailors used the Sun, the stars and seabirds for navigation across the North Atlantic."},
+        {"word": "expedition", "syllables": "ex-pe-di-tion", "definition": "a long, organized journey made by a group for a special purpose, such as exploring", "sentence": "Leif Erikson's expedition sailed west from Greenland about a thousand years ago."},
+        {"word": "Scandinavia", "syllables": "Scan-di-na-vi-a", "definition": "the region of northern Europe that includes Norway, Sweden and Denmark", "sentence": "The Vikings came from farms and villages all over Scandinavia."},
+        {"word": "chieftain", "syllables": "chief-tain", "definition": "the leader of a group, clan or tribe", "sentence": "The chieftain gathered his crew in the longhouse to plan the summer voyage."},
+        {"word": "seafaring", "syllables": "sea-far-ing", "definition": "travelling by sea, or making a living on the sea", "sentence": "The Norse were a seafaring people who could build fast, sturdy ships."},
+        {"word": "archaeological", "syllables": "ar-chae-o-log-i-cal", "definition": "having to do with the study of past human life through objects and places people left behind", "sentence": "The archaeological dig at L'Anse aux Meadows uncovered Norse iron rivets and a spindle whorl."},
+        {"word": "settlement", "syllables": "set-tle-ment", "definition": "a place where people have come to live and build homes", "sentence": "The Norse settlement in Newfoundland had sod-walled buildings close to the shore."},
+        {"word": "legendary", "syllables": "leg-end-ar-y", "definition": "famous and told about in old stories called legends", "sentence": "The legendary voyages of Leif Erikson were written down in the Norse sagas."},
+        {"word": "inscription", "syllables": "in-scrip-tion", "definition": "words carved, cut or written on something such as stone or metal", "sentence": "The runestone's inscription honoured a father who had travelled far from home."},
+        {"word": "voyage", "syllables": "voy-age", "definition": "a long journey, especially by sea or through space", "sentence": "The voyage from Greenland to Newfoundland took the crew many days of hard sailing."}
+      ]
     }
   ]
 }
