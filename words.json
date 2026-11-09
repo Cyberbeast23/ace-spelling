@@ -630,6 +630,21 @@
         {"word": "inscription", "syllables": "in-scrip-tion", "definition": "words carved, cut or written on something such as stone or metal", "sentence": "The runestone's inscription honoured a father who had travelled far from home."},
         {"word": "voyage", "syllables": "voy-age", "definition": "a long journey, especially by sea or through space", "sentence": "The voyage from Greenland to Newfoundland took the crew many days of hard sailing."}
       ]
+    },
+    {
+      "date": "2026-11-09",
+      "words": [
+        {"word": "extinguisher", "syllables": "ex-tin-guish-er", "definition": "a metal container that sprays foam, powder or water to put out a small fire", "sentence": "Dad keeps a fire extinguisher under the kitchen sink, just in case."},
+        {"word": "combustion", "syllables": "com-bus-tion", "definition": "the chemical process of burning, when fuel combines with oxygen and gives off heat and light", "sentence": "Combustion needs heat, fuel and oxygen, the three sides of the fire triangle."},
+        {"word": "evacuation", "syllables": "e-vac-u-a-tion", "definition": "the act of moving people out of a dangerous place to somewhere safe", "sentence": "During the fire drill, the whole school's evacuation took less than three minutes."},
+        {"word": "flammable", "syllables": "flam-ma-ble", "definition": "able to catch fire and burn easily", "sentence": "Keep flammable things like paper and curtains at least a metre away from heaters."},
+        {"word": "ventilation", "syllables": "ven-ti-la-tion", "definition": "the movement of fresh air into a space and stale air or smoke out of it", "sentence": "Firefighters improved the ventilation by opening windows and using a big fan."},
+        {"word": "hazardous", "syllables": "haz-ard-ous", "definition": "dangerous; likely to cause harm", "sentence": "Thick smoke is hazardous because it is full of toxic gases."},
+        {"word": "smoulder", "syllables": "smoul-der", "definition": "to burn slowly with smoke but without flames (Canadian spelling)", "sentence": "A forgotten campfire can smoulder for hours under the ashes."},
+        {"word": "ignition", "syllables": "ig-ni-tion", "definition": "the moment something starts to burn, or the act of setting something on fire", "sentence": "The investigator searched the room for the source of ignition."},
+        {"word": "prevention", "syllables": "pre-ven-tion", "definition": "stopping something bad from happening before it starts", "sentence": "Every October, Fire Prevention Week reminds families to test their smoke alarms."},
+        {"word": "apparatus", "syllables": "ap-pa-ra-tus", "definition": "a set of equipment or tools used for a special job", "sentence": "The firefighter checked her breathing apparatus before entering the smoky building."}
+      ]
     }
   ]
 }
