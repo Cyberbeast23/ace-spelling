@@ -645,6 +645,21 @@
         {"word": "prevention", "syllables": "pre-ven-tion", "definition": "stopping something bad from happening before it starts", "sentence": "Every October, Fire Prevention Week reminds families to test their smoke alarms."},
         {"word": "apparatus", "syllables": "ap-pa-ra-tus", "definition": "a set of equipment or tools used for a special job", "sentence": "The firefighter checked her breathing apparatus before entering the smoky building."}
       ]
+    },
+    {
+      "date": "2026-11-10",
+      "words": [
+        {"word": "Renaissance", "syllables": "Ren-ais-sance", "definition": "the period in Europe from about the 1300s to the 1600s when art, science and learning flourished again", "sentence": "Leonardo da Vinci is one of the most famous thinkers of the Renaissance."},
+        {"word": "masterpiece", "syllables": "mas-ter-piece", "definition": "an outstanding work of art, or the very best thing a person has made", "sentence": "Many people think the Mona Lisa is Leonardo's greatest masterpiece."},
+        {"word": "apprentice", "syllables": "ap-pren-tice", "definition": "a young person who learns a skilled job by working for an expert", "sentence": "At about fourteen, Leonardo became an apprentice in a painter's workshop."},
+        {"word": "portrait", "syllables": "por-trait", "definition": "a painting, drawing or photograph of a person, especially the face", "sentence": "The artist asked me to sit very still while she sketched my portrait."},
+        {"word": "fresco", "syllables": "fres-co", "definition": "a painting made on wet plaster on a wall or ceiling", "sentence": "The painters had to work fast because a fresco dries as the plaster sets."},
+        {"word": "sculpture", "syllables": "sculp-ture", "definition": "a work of art made by carving, moulding or shaping materials such as stone, wood or clay", "sentence": "The marble sculpture in the museum was taller than my dad."},
+        {"word": "ingenious", "syllables": "in-gen-ious", "definition": "very clever and original, especially at inventing things", "sentence": "Leonardo sketched an ingenious parachute shaped like a pyramid."},
+        {"word": "symmetry", "syllables": "sym-me-try", "definition": "the quality of having two halves that match each other exactly", "sentence": "A butterfly's wings show almost perfect symmetry."},
+        {"word": "proportion", "syllables": "pro-por-tion", "definition": "the size of one part compared with another part or with the whole", "sentence": "In a good drawing, the head is in proportion to the rest of the body."},
+        {"word": "manuscript", "syllables": "man-u-script", "definition": "a book or document written by hand, or an author's original copy", "sentence": "Leonardo's manuscript was written backward, so you need a mirror to read it."}
+      ]
     }
   ]
 }
