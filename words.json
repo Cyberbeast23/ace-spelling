@@ -660,6 +660,21 @@
         {"word": "proportion", "syllables": "pro-por-tion", "definition": "the size of one part compared with another part or with the whole", "sentence": "In a good drawing, the head is in proportion to the rest of the body."},
         {"word": "manuscript", "syllables": "man-u-script", "definition": "a book or document written by hand, or an author's original copy", "sentence": "Leonardo's manuscript was written backward, so you need a mirror to read it."}
       ]
+    },
+    {
+      "date": "2026-11-11",
+      "words": [
+        {"word": "estuary", "syllables": "es-tu-ar-y", "definition": "the wide mouth of a river, where fresh river water mixes with salty seawater and the tide rises and falls", "sentence": "Salmon pass through the estuary on their way from the river to the ocean."},
+        {"word": "intertidal", "syllables": "in-ter-tid-al", "definition": "describing the shore between the high-tide line and the low-tide line, underwater part of the day and dry the rest", "sentence": "At low tide, Ace found crabs and snails hiding in the intertidal zone."},
+        {"word": "gravitational", "syllables": "grav-i-ta-tion-al", "definition": "having to do with gravity, the force that pulls objects toward each other", "sentence": "The Moon's gravitational pull causes the ocean tides."},
+        {"word": "turbine", "syllables": "tur-bine", "definition": "a machine with blades that spin when water, wind or steam pushes them, often used to make electricity", "sentence": "Engineers lowered an underwater turbine into the fast tidal current."},
+        {"word": "crustacean", "syllables": "crus-ta-cean", "definition": "an animal with a hard outer shell, jointed legs and no backbone, such as a crab, lobster or shrimp", "sentence": "A crab is a crustacean that walks sideways."},
+        {"word": "phenomenon", "syllables": "phe-nom-e-non", "definition": "something that happens or exists that people can observe, especially something unusual or amazing", "sentence": "The tidal bore is a natural phenomenon that draws crowds to the riverbank."},
+        {"word": "amplitude", "syllables": "am-pli-tude", "definition": "the size or height of a wave or movement, measured from its middle to its highest point", "sentence": "During a spring tide, the amplitude of the tide is especially large."},
+        {"word": "renewable", "syllables": "re-new-a-ble", "definition": "able to be replaced naturally, so it will not run out, like energy from the Sun, wind or tides", "sentence": "Tidal power is a renewable source of energy because the tides never stop."},
+        {"word": "mollusc", "syllables": "mol-lusc", "definition": "a soft-bodied animal with no backbone that usually has a shell, such as a snail, clam or mussel", "sentence": "The periwinkle is a small mollusc that clings to rocks at low tide."},
+        {"word": "submerged", "syllables": "sub-merged", "definition": "completely covered by water", "sentence": "By evening, the rocks we had climbed on were completely submerged by the tide."}
+      ]
     }
   ]
 }
