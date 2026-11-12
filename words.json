@@ -675,6 +675,21 @@
         {"word": "mollusc", "syllables": "mol-lusc", "definition": "a soft-bodied animal with no backbone that usually has a shell, such as a snail, clam or mussel", "sentence": "The periwinkle is a small mollusc that clings to rocks at low tide."},
         {"word": "submerged", "syllables": "sub-merged", "definition": "completely covered by water", "sentence": "By evening, the rocks we had climbed on were completely submerged by the tide."}
       ]
+    },
+    {
+      "date": "2026-11-12",
+      "words": [
+        {"word": "esophagus", "syllables": "e-soph-a-gus", "definition": "the muscular tube that carries food and drink from the throat down to the stomach", "sentence": "Rings of muscle in the esophagus squeezed the bite of apple down to Ace's stomach."},
+        {"word": "peristalsis", "syllables": "per-i-stal-sis", "definition": "waves of muscle squeezing that push food along the digestive tract", "sentence": "Thanks to peristalsis, astronauts can swallow food even in space."},
+        {"word": "gastrointestinal", "syllables": "gas-tro-in-tes-ti-nal", "definition": "having to do with the stomach and the intestines", "sentence": "The doctor said the stomach ache was a mild gastrointestinal infection."},
+        {"word": "enzyme", "syllables": "en-zyme", "definition": "a special protein in living things that speeds up a chemical reaction, such as breaking down food", "sentence": "An enzyme in saliva begins turning starch into sugar while you chew."},
+        {"word": "absorption", "syllables": "ab-sorp-tion", "definition": "the process of taking in or soaking up something, such as nutrients passing into the blood", "sentence": "Tiny villi in the small intestine make the absorption of nutrients faster."},
+        {"word": "metabolism", "syllables": "me-tab-o-lism", "definition": "all the chemical processes in the body that turn food into energy and building materials", "sentence": "Exercise and sleep both affect how quickly your metabolism uses energy."},
+        {"word": "hydrochloric", "syllables": "hy-dro-chlo-ric", "definition": "describing a strong acid made of hydrogen and chlorine; the stomach makes a weak form of it to digest food", "sentence": "The stomach makes hydrochloric acid that kills most germs in your food."},
+        {"word": "pancreas", "syllables": "pan-cre-as", "definition": "an organ behind the stomach that makes digestive juices and hormones that control blood sugar", "sentence": "Juices from the pancreas help break down fats, proteins and carbohydrates."},
+        {"word": "epiglottis", "syllables": "ep-i-glot-tis", "definition": "a small flap of tissue that covers the windpipe when you swallow, so food goes down the right tube", "sentence": "The epiglottis snapped shut so the water would not go down the wrong way."},
+        {"word": "microbiome", "syllables": "mi-cro-bi-ome", "definition": "the huge community of tiny living things, such as bacteria, that live in or on a body", "sentence": "Eating fibre feeds the helpful bacteria in your gut microbiome."}
+      ]
     }
   ]
 }
