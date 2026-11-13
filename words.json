@@ -690,6 +690,21 @@
         {"word": "epiglottis", "syllables": "ep-i-glot-tis", "definition": "a small flap of tissue that covers the windpipe when you swallow, so food goes down the right tube", "sentence": "The epiglottis snapped shut so the water would not go down the wrong way."},
         {"word": "microbiome", "syllables": "mi-cro-bi-ome", "definition": "the huge community of tiny living things, such as bacteria, that live in or on a body", "sentence": "Eating fibre feeds the helpful bacteria in your gut microbiome."}
       ]
+    },
+    {
+      "date": "2026-11-13",
+      "words": [
+        {"word": "reservoir", "syllables": "res-er-voir", "definition": "a large natural or human-made lake, often behind a dam, where water is collected and stored", "sentence": "Melting snow refills the mountain reservoir every spring."},
+        {"word": "watershed", "syllables": "wa-ter-shed", "definition": "an area of land where all the rain and melting snow drains into the same river, lake or reservoir", "sentence": "Hiking is not allowed in the watershed, so the drinking water stays clean."},
+        {"word": "coagulation", "syllables": "co-ag-u-la-tion", "definition": "the process of making tiny particles stick together into larger clumps", "sentence": "During coagulation, a chemical makes the dirt particles in the water sticky."},
+        {"word": "sedimentation", "syllables": "sed-i-men-ta-tion", "definition": "the process of heavy bits in a liquid slowly sinking and settling to the bottom", "sentence": "In the sedimentation tank, the heavy clumps of dirt sink to the bottom."},
+        {"word": "filtration", "syllables": "fil-tra-tion", "definition": "the process of passing a liquid through a material, such as sand, that traps unwanted particles", "sentence": "After filtration through sand and crushed coal, the water looked crystal clear."},
+        {"word": "chlorination", "syllables": "chlo-ri-na-tion", "definition": "the process of adding chlorine to water to kill germs", "sentence": "Chlorination protects the water from germs as it travels through kilometres of pipes."},
+        {"word": "contaminate", "syllables": "con-tam-i-nate", "definition": "to make something dirty, impure or unsafe by mixing something harmful into it", "sentence": "A leaking waste pit can contaminate the water in a nearby well."},
+        {"word": "infrastructure", "syllables": "in-fra-struc-ture", "definition": "the basic systems a community needs to work, such as pipes, roads, bridges and power lines", "sentence": "Replacing old, leaky water pipes is an important infrastructure project for the city."},
+        {"word": "sanitation", "syllables": "san-i-ta-tion", "definition": "the systems that keep a place clean and healthy, especially by safely removing sewage and garbage", "sentence": "Good sanitation helps stop diseases like cholera from spreading."},
+        {"word": "conservation", "syllables": "con-ser-va-tion", "definition": "the careful use and protection of something, such as water or energy, so it is not wasted", "sentence": "Taking shorter showers is an easy way to practise water conservation."}
+      ]
     }
   ]
 }
