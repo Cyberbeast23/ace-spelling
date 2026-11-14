@@ -705,6 +705,21 @@
         {"word": "sanitation", "syllables": "san-i-ta-tion", "definition": "the systems that keep a place clean and healthy, especially by safely removing sewage and garbage", "sentence": "Good sanitation helps stop diseases like cholera from spreading."},
         {"word": "conservation", "syllables": "con-ser-va-tion", "definition": "the careful use and protection of something, such as water or energy, so it is not wasted", "sentence": "Taking shorter showers is an easy way to practise water conservation."}
       ]
+    },
+    {
+      "date": "2026-11-14",
+      "words": [
+        {"word": "civilization", "syllables": "civ-i-li-za-tion", "definition": "a large, organized society with cities, a government, farming, building and shared ways of life", "sentence": "The Inca civilization built roads and cities high in the Andes Mountains."},
+        {"word": "masonry", "syllables": "ma-son-ry", "definition": "stonework or brickwork; the craft of building with cut stones or bricks", "sentence": "Inca masonry is so precise that a knife blade cannot slip between the stones."},
+        {"word": "irrigation", "syllables": "ir-ri-ga-tion", "definition": "bringing water to crops through channels, ditches or pipes", "sentence": "Stone channels provided irrigation for the potatoes and maize on the terraces."},
+        {"word": "hierarchy", "syllables": "hi-er-ar-chy", "definition": "a system that ranks people or things from the most powerful or important to the least", "sentence": "In the Inca hierarchy, the emperor stood at the top and farming families at the bottom."},
+        {"word": "sovereign", "syllables": "sov-er-eign", "definition": "a supreme ruler, such as a king, queen or emperor; also, having full power to govern itself", "sentence": "The Inca sovereign was believed to be a descendant of the Sun."},
+        {"word": "citadel", "syllables": "cit-a-del", "definition": "a fortress or strongly protected settlement, often on high ground, that guards a city", "sentence": "Machu Picchu is sometimes called a citadel because it sits on a steep, easily defended ridge."},
+        {"word": "conquistador", "syllables": "con-quis-ta-dor", "definition": "one of the Spanish soldiers who invaded and conquered parts of the Americas in the 1500s", "sentence": "The conquistador Francisco Pizarro arrived in the Inca Empire in 1532."},
+        {"word": "acclimatize", "syllables": "ac-cli-ma-tize", "definition": "to slowly get used to a new climate or condition, such as the thin air high on a mountain", "sentence": "Visitors to Cusco rest for a day or two to acclimatize to the high altitude."},
+        {"word": "precipice", "syllables": "prec-i-pice", "definition": "a very steep or overhanging face of a cliff", "sentence": "The narrow trail ran along the edge of a dizzying precipice above the river."},
+        {"word": "ceremonial", "syllables": "cer-e-mo-ni-al", "definition": "used for or connected with a formal religious or official event", "sentence": "Each June, the community holds a ceremonial celebration when the new rope bridge is finished."}
+      ]
     }
   ]
 }
