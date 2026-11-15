@@ -720,6 +720,21 @@
         {"word": "precipice", "syllables": "prec-i-pice", "definition": "a very steep or overhanging face of a cliff", "sentence": "The narrow trail ran along the edge of a dizzying precipice above the river."},
         {"word": "ceremonial", "syllables": "cer-e-mo-ni-al", "definition": "used for or connected with a formal religious or official event", "sentence": "Each June, the community holds a ceremonial celebration when the new rope bridge is finished."}
       ]
+    },
+    {
+      "date": "2026-11-15",
+      "words": [
+        {"word": "supernova", "syllables": "su-per-no-va", "definition": "the gigantic explosion of a huge star at the end of its life, which can briefly outshine a whole galaxy", "sentence": "In 1054, astronomers in China saw a supernova so bright it was visible in daytime."},
+        {"word": "nebula", "syllables": "neb-u-la", "definition": "an enormous cloud of gas and dust in space where new stars can form", "sentence": "Gravity slowly pulled the gas in the nebula together until a new star began to shine."},
+        {"word": "luminosity", "syllables": "lu-mi-nos-i-ty", "definition": "the total amount of light and energy a star gives off", "sentence": "Rigel's luminosity is tens of thousands of times greater than the Sun's."},
+        {"word": "astronomer", "syllables": "as-tron-o-mer", "definition": "a scientist who studies stars, planets, galaxies and other objects in space", "sentence": "The astronomer pointed the telescope at the Crab Nebula."},
+        {"word": "interstellar", "syllables": "in-ter-stel-lar", "definition": "located or travelling in the space between the stars", "sentence": "Interstellar dust can block the light from faraway stars."},
+        {"word": "wavelength", "syllables": "wave-length", "definition": "the distance from one wave crest to the next; for light, it decides the colour we see", "sentence": "Red light has a longer wavelength than blue light."},
+        {"word": "observatory", "syllables": "ob-ser-va-to-ry", "definition": "a building with large telescopes used to study the sky", "sentence": "Our class visited an observatory on a mountaintop to look at Saturn's rings."},
+        {"word": "thermonuclear", "syllables": "ther-mo-nu-cle-ar", "definition": "having to do with the joining (fusion) of atoms at extremely high temperatures, which releases huge amounts of energy", "sentence": "Thermonuclear reactions deep in the Sun's core turn hydrogen into helium."},
+        {"word": "equilibrium", "syllables": "e-qui-lib-ri-um", "definition": "a state of balance in which opposing forces are equal", "sentence": "A star stays steady when gravity and the outward push of fusion are in equilibrium."},
+        {"word": "astrophysicist", "syllables": "as-tro-phys-i-cist", "definition": "a scientist who uses physics to explain how stars, galaxies and the universe work", "sentence": "The astrophysicist explained why the biggest stars have the shortest lives."}
+      ]
     }
   ]
 }
