@@ -735,6 +735,21 @@
         {"word": "equilibrium", "syllables": "e-qui-lib-ri-um", "definition": "a state of balance in which opposing forces are equal", "sentence": "A star stays steady when gravity and the outward push of fusion are in equilibrium."},
         {"word": "astrophysicist", "syllables": "as-tro-phys-i-cist", "definition": "a scientist who uses physics to explain how stars, galaxies and the universe work", "sentence": "The astrophysicist explained why the biggest stars have the shortest lives."}
       ]
+    },
+    {
+      "date": "2026-11-16",
+      "words": [
+        {"word": "tetrapod", "syllables": "tet-ra-pod", "definition": "an animal with a backbone and four limbs, such as a frog, a lizard, a bird or a human", "sentence": "Acanthostega was one of the earliest tetrapods, with eight toes on each front foot."},
+        {"word": "transitional", "syllables": "tran-si-tion-al", "definition": "in between two stages, with features of both", "sentence": "Tiktaalik is a transitional fossil that is partway between a fish and a four-legged animal."},
+        {"word": "ancestral", "syllables": "an-ces-tral", "definition": "belonging to or inherited from ancestors who lived long ago", "sentence": "The bones in your arm follow an ancestral pattern that first appeared in fish fins."},
+        {"word": "amphibian", "syllables": "am-phib-i-an", "definition": "a cold-blooded animal with a backbone, such as a frog or salamander, that usually begins life in water and can later live on land", "sentence": "The salamander is an amphibian that hatched in a pond and now lives under logs in the forest."},
+        {"word": "hypothesis", "syllables": "hy-poth-e-sis", "definition": "a possible explanation that scientists can test with experiments or observations", "sentence": "The team's hypothesis led them to search 375-million-year-old rocks in Nunavut."},
+        {"word": "evolutionary", "syllables": "ev-o-lu-tion-ar-y", "definition": "having to do with the slow changes in living things over many generations", "sentence": "Fins slowly becoming legs was one of the biggest evolutionary changes in the history of life."},
+        {"word": "illustrator", "syllables": "il-lus-tra-tor", "definition": "an artist who draws or paints pictures that explain or decorate a text", "sentence": "The scientific illustrator drew every tiny bone of the fossil fin at a scale of 5:1."},
+        {"word": "radioactive", "syllables": "ra-di-o-ac-tive", "definition": "giving off energy as some of its atoms slowly break down and change into other atoms", "sentence": "Scientists measure radioactive elements in crystals to find out how old a rock is."},
+        {"word": "classification", "syllables": "clas-si-fi-ca-tion", "definition": "the sorting of things into groups based on the features they share", "sentence": "A dichotomous key is a useful tool for the classification of fossils."},
+        {"word": "quadrant", "syllables": "quad-rant", "definition": "one of four equal parts of something, such as a circle or a coordinate grid", "sentence": "The camp was in the quadrant of the grid where x is negative and y is positive."}
+      ]
     }
   ]
 }
