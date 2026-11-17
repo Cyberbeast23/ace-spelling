@@ -750,6 +750,21 @@
         {"word": "classification", "syllables": "clas-si-fi-ca-tion", "definition": "the sorting of things into groups based on the features they share", "sentence": "A dichotomous key is a useful tool for the classification of fossils."},
         {"word": "quadrant", "syllables": "quad-rant", "definition": "one of four equal parts of something, such as a circle or a coordinate grid", "sentence": "The camp was in the quadrant of the grid where x is negative and y is positive."}
       ]
+    },
+    {
+      "date": "2026-11-17",
+      "words": [
+        {"word": "origami", "syllables": "or-i-ga-mi", "definition": "the Japanese art of folding paper into shapes and figures without cutting or gluing it", "sentence": "Ace folded a crane out of a single square using origami."},
+        {"word": "tessellation", "syllables": "tes-sel-la-tion", "definition": "a pattern of shapes that fit together perfectly with no gaps and no overlaps", "sentence": "The hexagons on the folded paper formed a tessellation like a honeycomb."},
+        {"word": "perpendicular", "syllables": "per-pen-dic-u-lar", "definition": "meeting another line at a right angle (90 degrees)", "sentence": "The two creases are perpendicular, so they cross to make four square corners."},
+        {"word": "parallelogram", "syllables": "par-al-lel-o-gram", "definition": "a four-sided shape whose opposite sides are parallel and equal in length", "sentence": "The Miura fold covers the sheet with slanted parallelograms."},
+        {"word": "isosceles", "syllables": "i-sos-ce-les", "definition": "describing a triangle that has two sides of equal length", "sentence": "Folding a square along its diagonal makes an isosceles right triangle."},
+        {"word": "congruent", "syllables": "con-gru-ent", "definition": "exactly the same shape and size", "sentence": "The four creases divided the square into eight congruent triangles."},
+        {"word": "meticulous", "syllables": "me-tic-u-lous", "definition": "extremely careful about every small detail", "sentence": "Akira Yoshizawa was so meticulous that he studied a real animal for days before folding it."},
+        {"word": "intricate", "syllables": "in-tri-cate", "definition": "having many small parts or details arranged in a complicated way", "sentence": "The paper beetle had intricate legs, antennae and horns, all from one uncut square."},
+        {"word": "collapsible", "syllables": "col-lap-si-ble", "definition": "able to fold up into a smaller shape and open out again", "sentence": "The collapsible solar panel folded small enough to fit inside the rocket."},
+        {"word": "artisan", "syllables": "ar-ti-san", "definition": "a skilled worker who makes things by hand, often in a traditional craft", "sentence": "The artisan made thin, strong washi paper from the bark of a shrub."}
+      ]
     }
   ]
 }
