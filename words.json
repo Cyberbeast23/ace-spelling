@@ -765,6 +765,21 @@
         {"word": "collapsible", "syllables": "col-lap-si-ble", "definition": "able to fold up into a smaller shape and open out again", "sentence": "The collapsible solar panel folded small enough to fit inside the rocket."},
         {"word": "artisan", "syllables": "ar-ti-san", "definition": "a skilled worker who makes things by hand, often in a traditional craft", "sentence": "The artisan made thin, strong washi paper from the bark of a shrub."}
       ]
+    },
+    {
+      "date": "2026-11-18",
+      "words": [
+        {"word": "statistician", "syllables": "stat-is-ti-cian", "definition": "a person whose job is to collect numbers and study what they mean", "sentence": "The team statistician counted every shot, save and pass during the game."},
+        {"word": "trajectory", "syllables": "tra-jec-to-ry", "definition": "the curved or straight path an object follows as it moves through the air or space", "sentence": "The goalie read the puck's trajectory and snapped up her glove just in time."},
+        {"word": "velocity", "syllables": "ve-loc-i-ty", "definition": "the speed of something in a particular direction", "sentence": "A hard slapshot can leave the stick at a velocity of more than 150 km/h."},
+        {"word": "friction", "syllables": "fric-tion", "definition": "the force that slows things down when two surfaces rub against each other", "sentence": "Smooth, fresh ice has very little friction, so the puck glides a long way."},
+        {"word": "goaltender", "syllables": "goal-tend-er", "definition": "the player who guards the net and tries to stop the other team from scoring", "sentence": "Our goaltender made thirty saves and was named player of the game."},
+        {"word": "sportsmanship", "syllables": "sports-man-ship", "definition": "playing fairly, following the rules and being polite to others whether you win or lose", "sentence": "Both teams showed good sportsmanship by shaking hands after the final buzzer."},
+        {"word": "consecutive", "syllables": "con-sec-u-tive", "definition": "following one after another without a break", "sentence": "Maya scored in four consecutive games, but four games is still a small sample."},
+        {"word": "probability", "syllables": "prob-a-bil-i-ty", "definition": "how likely it is that something will happen, often written as a fraction or percent", "sentence": "The probability of scoring on two shootout shots in a row is lower than scoring on one."},
+        {"word": "efficiency", "syllables": "ef-fi-cien-cy", "definition": "getting good results without wasting time, energy or chances", "sentence": "Her shooting efficiency is high because she scores on almost a quarter of her shots."},
+        {"word": "regulation", "syllables": "reg-u-la-tion", "definition": "an official rule; in sports, the normal playing time before any overtime", "sentence": "The game was tied at the end of regulation, so the teams played overtime."}
+      ]
     }
   ]
 }
