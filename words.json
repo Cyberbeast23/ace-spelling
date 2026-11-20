@@ -795,6 +795,21 @@
         {"word": "interpreter", "syllables": "in-ter-pre-ter", "definition": "a person who translates what someone says into another language", "sentence": "An interpreter helped the traders and the Cree hunters understand each other."},
         {"word": "rendezvous", "syllables": "ren-dez-vous", "definition": "a meeting at a place and time that was agreed on ahead of time", "sentence": "Each summer the two crews held a rendezvous on the shore of Lake Superior."}
       ]
+    },
+    {
+      "date": "2026-11-20",
+      "words": [
+        {"word": "snowpack", "syllables": "snow-pack", "definition": "all the layers of snow that build up on the ground over a winter", "sentence": "The forecaster dug a pit to study each layer of the snowpack."},
+        {"word": "forecaster", "syllables": "fore-cast-er", "definition": "a person who studies information to predict what will happen, such as the weather or avalanche danger", "sentence": "The avalanche forecaster raised the danger rating after the big storm."},
+        {"word": "transceiver", "syllables": "trans-ceiv-er", "definition": "a radio device that can both send and receive signals", "sentence": "Every skier in the group switched on a transceiver before leaving the parking lot."},
+        {"word": "terrain", "syllables": "ter-rain", "definition": "an area of land and its physical features, such as slopes, ridges and valleys", "sentence": "The guide chose gentle, forested terrain because the danger was high."},
+        {"word": "cornice", "syllables": "cor-nice", "definition": "an overhanging lip of wind-packed snow along the edge of a ridge", "sentence": "We stayed far back from the cornice in case it broke off."},
+        {"word": "unstable", "syllables": "un-sta-ble", "definition": "likely to move, fall or change suddenly; not firm or steady", "sentence": "A weak layer made the snowpack unstable on the steep north slope."},
+        {"word": "accumulate", "syllables": "ac-cu-mu-late", "definition": "to gradually build up or collect over time", "sentence": "Snow continued to accumulate on the ridge until it was over two metres deep."},
+        {"word": "vulnerable", "syllables": "vul-ner-a-ble", "definition": "easily hurt, damaged or attacked", "sentence": "A buried person is most vulnerable in the first few minutes, so rescuers must work fast."},
+        {"word": "hypothermia", "syllables": "hy-po-ther-mi-a", "definition": "a dangerous drop in body temperature caused by long exposure to cold", "sentence": "Dry clothes and a warm drink help protect hikers from hypothermia."},
+        {"word": "vigilant", "syllables": "vig-i-lant", "definition": "carefully watching for possible danger or problems", "sentence": "Ski patrollers stay vigilant for cracks and other signs of unstable snow."}
+      ]
     }
   ]
 }
