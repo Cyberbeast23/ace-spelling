@@ -810,6 +810,21 @@
         {"word": "hypothermia", "syllables": "hy-po-ther-mi-a", "definition": "a dangerous drop in body temperature caused by long exposure to cold", "sentence": "Dry clothes and a warm drink help protect hikers from hypothermia."},
         {"word": "vigilant", "syllables": "vig-i-lant", "definition": "carefully watching for possible danger or problems", "sentence": "Ski patrollers stay vigilant for cracks and other signs of unstable snow."}
       ]
+    },
+    {
+      "date": "2026-11-21",
+      "words": [
+        {"word": "enamel", "syllables": "e-nam-el", "definition": "the hard, shiny outer layer that covers and protects a tooth", "sentence": "Enamel is the hardest substance in the human body, but acid can still wear it away."},
+        {"word": "cavity", "syllables": "cav-i-ty", "definition": "a hole in a tooth caused by decay", "sentence": "The dentist found a tiny cavity and fixed it with a filling."},
+        {"word": "fluoride", "syllables": "flu-o-ride", "definition": "a mineral added to toothpaste and some tap water to help make teeth stronger", "sentence": "Brantford, Ontario, was the first Canadian city to add fluoride to its water."},
+        {"word": "incisor", "syllables": "in-ci-sor", "definition": "one of the sharp, flat front teeth used for biting and cutting food", "sentence": "Ace bit into the crunchy apple with his front incisors."},
+        {"word": "plaque", "syllables": "plaque", "definition": "a sticky, colourless film of bacteria that forms on teeth", "sentence": "Brushing and flossing remove plaque before it can cause decay."},
+        {"word": "permanent", "syllables": "per-ma-nent", "definition": "lasting for a very long time or forever; not temporary", "sentence": "Your permanent teeth have to last the rest of your life, so take good care of them."},
+        {"word": "appointment", "syllables": "ap-point-ment", "definition": "a planned time to meet someone or visit a place", "sentence": "Dad booked a dental appointment for Saturday morning."},
+        {"word": "hygienist", "syllables": "hy-gien-ist", "definition": "a trained health worker who cleans teeth and teaches people how to care for them", "sentence": "The dental hygienist showed the class how to floss properly."},
+        {"word": "orthodontist", "syllables": "or-tho-don-tist", "definition": "a dentist who specializes in straightening teeth and fixing the bite, often with braces", "sentence": "The orthodontist said the crooked tooth could be straightened with braces."},
+        {"word": "gingivitis", "syllables": "gin-gi-vi-tis", "definition": "swelling and redness of the gums, usually caused by plaque", "sentence": "Flossing every day helps prevent gingivitis, which can make your gums bleed."}
+      ]
     }
   ]
 }
