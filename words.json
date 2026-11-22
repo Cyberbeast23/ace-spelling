@@ -825,6 +825,21 @@
         {"word": "orthodontist", "syllables": "or-tho-don-tist", "definition": "a dentist who specializes in straightening teeth and fixing the bite, often with braces", "sentence": "The orthodontist said the crooked tooth could be straightened with braces."},
         {"word": "gingivitis", "syllables": "gin-gi-vi-tis", "definition": "swelling and redness of the gums, usually caused by plaque", "sentence": "Flossing every day helps prevent gingivitis, which can make your gums bleed."}
       ]
+    },
+    {
+      "date": "2026-11-22",
+      "words": [
+        {"word": "skyscraper", "syllables": "sky-scrap-er", "definition": "a very tall building with many storeys", "sentence": "The skyscraper was so tall that its top disappeared into the clouds."},
+        {"word": "structural", "syllables": "struc-tur-al", "definition": "having to do with the parts that hold something up and give it its shape", "sentence": "The structural engineer checked that every beam could carry its load."},
+        {"word": "reinforcement", "syllables": "re-in-force-ment", "definition": "extra material or support added to make something stronger", "sentence": "Steel bars inside the concrete act as reinforcement against cracking."},
+        {"word": "prefabricated", "syllables": "pre-fab-ri-cat-ed", "definition": "made in sections in a factory ahead of time, then put together on site", "sentence": "The prefabricated wooden panels were lifted into place by a crane."},
+        {"word": "scaffolding", "syllables": "scaf-fold-ing", "definition": "a temporary frame of poles and platforms that workers stand on while building or repairing", "sentence": "Painters climbed the scaffolding to reach the tenth-floor windows."},
+        {"word": "laminated", "syllables": "lam-i-nat-ed", "definition": "made of thin layers glued or pressed together", "sentence": "Laminated timber beams can be stronger than a single piece of wood."},
+        {"word": "storey", "syllables": "sto-rey", "definition": "one floor or level of a building (Canadian and British spelling)", "sentence": "Our apartment is on the twelfth storey, so we take the elevator."},
+        {"word": "compression", "syllables": "com-pres-sion", "definition": "the act of squeezing or pressing something into a smaller space", "sentence": "The columns at the bottom of the tower are under the most compression."},
+        {"word": "oscillation", "syllables": "os-cil-la-tion", "definition": "a steady swinging or moving back and forth", "sentence": "A tuned mass damper reduces the oscillation of a tall tower in strong wind."},
+        {"word": "seismic", "syllables": "seis-mic", "definition": "having to do with earthquakes or the shaking of the ground", "sentence": "Buildings in coastal British Columbia must meet strict seismic safety rules."}
+      ]
     }
   ]
 }
