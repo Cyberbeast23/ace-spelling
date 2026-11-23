@@ -840,6 +840,21 @@
         {"word": "oscillation", "syllables": "os-cil-la-tion", "definition": "a steady swinging or moving back and forth", "sentence": "A tuned mass damper reduces the oscillation of a tall tower in strong wind."},
         {"word": "seismic", "syllables": "seis-mic", "definition": "having to do with earthquakes or the shaking of the ground", "sentence": "Buildings in coastal British Columbia must meet strict seismic safety rules."}
       ]
+    },
+    {
+      "date": "2026-11-23",
+      "words": [
+        {"word": "canal", "syllables": "ca-nal", "definition": "a long channel dug by people to carry water for boats or for watering crops", "sentence": "Sumerian farmers dug a canal to carry river water to their barley fields."},
+        {"word": "barley", "syllables": "bar-ley", "definition": "a cereal grain grown for food, used to make bread, soup and animal feed", "sentence": "Temple workers in ancient Sumer were often paid in barley instead of money."},
+        {"word": "scribe", "syllables": "scribe", "definition": "a person whose job is writing or copying documents by hand", "sentence": "The young scribe practised the same wedge-shaped signs every day at school."},
+        {"word": "stylus", "syllables": "sty-lus", "definition": "a pointed tool used for writing or pressing marks, such as into soft clay", "sentence": "He pressed the reed stylus into the damp clay to write a receipt."},
+        {"word": "fertile", "syllables": "fer-tile", "definition": "able to grow many healthy crops or plants", "sentence": "The floods left behind fertile soil that was perfect for farming."},
+        {"word": "chariot", "syllables": "char-i-ot", "definition": "a two-wheeled cart pulled by horses or donkeys, used long ago in battles and races", "sentence": "The carving showed a king riding into battle in a chariot."},
+        {"word": "pictograph", "syllables": "pic-to-graph", "definition": "a picture or symbol that stands for a word or idea", "sentence": "The earliest tablets used a pictograph of an ox's head to mean \"ox.\""},
+        {"word": "ziggurat", "syllables": "zig-gu-rat", "definition": "a huge stepped tower built as a temple in ancient Mesopotamia", "sentence": "Each level of the ziggurat was smaller than the one below it."},
+        {"word": "cuneiform", "syllables": "cu-ne-i-form", "definition": "an ancient writing system made of wedge-shaped marks pressed into clay", "sentence": "Scholars in the 1800s finally learned how to read cuneiform."},
+        {"word": "Mesopotamia", "syllables": "Mes-o-po-ta-mi-a", "definition": "the ancient region between the Tigris and Euphrates rivers, in what is now mostly Iraq", "sentence": "Some of the world's first cities were built in Mesopotamia."}
+      ]
     }
   ]
 }
