@@ -855,6 +855,21 @@
         {"word": "cuneiform", "syllables": "cu-ne-i-form", "definition": "an ancient writing system made of wedge-shaped marks pressed into clay", "sentence": "Scholars in the 1800s finally learned how to read cuneiform."},
         {"word": "Mesopotamia", "syllables": "Mes-o-po-ta-mi-a", "definition": "the ancient region between the Tigris and Euphrates rivers, in what is now mostly Iraq", "sentence": "Some of the world's first cities were built in Mesopotamia."}
       ]
+    },
+    {
+      "date": "2026-11-24",
+      "words": [
+        {"word": "glide", "syllables": "glide", "definition": "to move smoothly and quietly through the air or over a surface without much effort", "sentence": "The gull spread its wings and began to glide over the harbour."},
+        {"word": "swoop", "syllables": "swoop", "definition": "to move down quickly through the air, especially to grab something", "sentence": "We watched the eagle swoop down and snatch a fish from the lake."},
+        {"word": "wingspan", "syllables": "wing-span", "definition": "the distance from the tip of one wing to the tip of the other", "sentence": "Quetzalcoatlus had a wingspan of about 10 metres, wider than a small airplane's."},
+        {"word": "updraft", "syllables": "up-draft", "definition": "a current of air that moves upward", "sentence": "The hawk circled higher and higher on a warm updraft."},
+        {"word": "airborne", "syllables": "air-borne", "definition": "up in the air; flying", "sentence": "With one powerful push of its arms, the pterosaur was airborne."},
+        {"word": "hatchling", "syllables": "hatch-ling", "definition": "a young animal that has just come out of its egg", "sentence": "The turtle hatchling scrambled across the sand toward the sea."},
+        {"word": "plummet", "syllables": "plum-met", "definition": "to fall straight down very quickly", "sentence": "The diving bird folded its wings and began to plummet toward the water."},
+        {"word": "elongated", "syllables": "e-lon-gat-ed", "definition": "stretched out; longer than usual", "sentence": "A pterosaur's wing hung from one elongated finger."},
+        {"word": "quadrupedal", "syllables": "quad-ru-ped-al", "definition": "walking on four limbs", "sentence": "On the ground, pterosaurs were quadrupedal, walking on both their arms and their legs."},
+        {"word": "pterosaur", "syllables": "pter-o-saur", "definition": "a flying reptile that lived at the same time as the dinosaurs (the p is silent)", "sentence": "The museum's pterosaur skeleton hangs from the ceiling with its wings spread wide."}
+      ]
     }
   ]
 }
