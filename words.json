@@ -870,6 +870,21 @@
         {"word": "quadrupedal", "syllables": "quad-ru-ped-al", "definition": "walking on four limbs", "sentence": "On the ground, pterosaurs were quadrupedal, walking on both their arms and their legs."},
         {"word": "pterosaur", "syllables": "pter-o-saur", "definition": "a flying reptile that lived at the same time as the dinosaurs (the p is silent)", "sentence": "The museum's pterosaur skeleton hangs from the ceiling with its wings spread wide."}
       ]
+    },
+    {
+      "date": "2026-11-25",
+      "words": [
+        {"word": "landfill", "syllables": "land-fill", "definition": "a large, carefully lined area of land where garbage is buried", "sentence": "The truck carried our garbage to the landfill outside of town."},
+        {"word": "methane", "syllables": "meth-ane", "definition": "a colourless gas, made when food and plants rot without air, that traps heat in the atmosphere", "sentence": "Some landfills collect methane and burn it to make electricity."},
+        {"word": "decompose", "syllables": "de-com-pose", "definition": "to slowly break down or rot into simpler materials", "sentence": "Leaves and apple cores decompose into rich soil in a compost bin."},
+        {"word": "disposable", "syllables": "dis-pos-a-ble", "definition": "made to be used once or a few times and then thrown away", "sentence": "Our class switched from disposable cups to washable mugs."},
+        {"word": "recyclable", "syllables": "re-cy-cla-ble", "definition": "able to be collected, processed and made into something new", "sentence": "Check the label to see whether the yogurt container is recyclable."},
+        {"word": "consumption", "syllables": "con-sump-tion", "definition": "the act of using up something, such as food, energy or goods", "sentence": "Turning off lights cuts our family's electricity consumption."},
+        {"word": "incinerator", "syllables": "in-cin-er-a-tor", "definition": "a furnace or machine that burns waste at very high temperatures", "sentence": "The city's incinerator turns some garbage into ash and heat."},
+        {"word": "sustainable", "syllables": "sus-tain-a-ble", "definition": "able to continue for a long time without using up resources or harming the environment", "sentence": "Planting a new tree for every one we cut down is a sustainable plan."},
+        {"word": "contamination", "syllables": "con-tam-i-na-tion", "definition": "the spoiling of something by mixing in dirty, harmful or unwanted material", "sentence": "One greasy pizza box can cause contamination in a whole bale of paper."},
+        {"word": "biodegradable", "syllables": "bi-o-de-grad-a-ble", "definition": "able to be broken down naturally by bacteria and other living things", "sentence": "A banana peel is biodegradable, but a plastic bag is not."}
+      ]
     }
   ]
 }
