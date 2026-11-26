@@ -885,6 +885,21 @@
         {"word": "contamination", "syllables": "con-tam-i-na-tion", "definition": "the spoiling of something by mixing in dirty, harmful or unwanted material", "sentence": "One greasy pizza box can cause contamination in a whole bale of paper."},
         {"word": "biodegradable", "syllables": "bi-o-de-grad-a-ble", "definition": "able to be broken down naturally by bacteria and other living things", "sentence": "A banana peel is biodegradable, but a plastic bag is not."}
       ]
+    },
+    {
+      "date": "2026-11-26",
+      "words": [
+        {"word": "mycelium", "syllables": "my-ce-li-um", "definition": "the network of thin, thread-like parts that makes up the main body of a fungus", "sentence": "Under the mushroom, a white mycelium spread through the rotting log."},
+        {"word": "mycologist", "syllables": "my-col-o-gist", "definition": "a scientist who studies fungi such as mushrooms, moulds and yeasts", "sentence": "The mycologist photographed each mushroom before writing its name in her notebook."},
+        {"word": "edible", "syllables": "ed-i-ble", "definition": "safe and fit to be eaten", "sentence": "Only an expert can tell which wild mushrooms are edible."},
+        {"word": "poisonous", "syllables": "poi-son-ous", "definition": "containing a substance that can cause sickness or death if eaten, touched or breathed in", "sentence": "The death cap is one of the most poisonous mushrooms in the world."},
+        {"word": "parasite", "syllables": "par-a-site", "definition": "a living thing that lives on or inside another living thing and takes food from it, often harming it", "sentence": "The honey mushroom acts as a parasite when it feeds on living trees."},
+        {"word": "symbiotic", "syllables": "sym-bi-ot-ic", "definition": "describing a close relationship between two different living things in which both usually benefit", "sentence": "Trees and root fungi share a symbiotic partnership of sugar for water and minerals."},
+        {"word": "fermentation", "syllables": "fer-men-ta-tion", "definition": "a chemical change in which yeast or bacteria break down sugars, often making gas or acid", "sentence": "Fermentation makes tiny gas bubbles that cause bread dough to rise."},
+        {"word": "penicillin", "syllables": "pen-i-cil-lin", "definition": "a medicine made from a mould that kills many kinds of harmful bacteria", "sentence": "Alexander Fleming discovered penicillin after mould grew on a dish of bacteria."},
+        {"word": "antibiotic", "syllables": "an-ti-bi-ot-ic", "definition": "a medicine that kills bacteria or stops them from growing", "sentence": "The doctor gave Grandpa an antibiotic to clear up his infection."},
+        {"word": "bioluminescent", "syllables": "bi-o-lu-mi-nes-cent", "definition": "able to make its own light, like fireflies and some fungi", "sentence": "At night, the bioluminescent mushrooms glowed a soft green on the forest floor."}
+      ]
     }
   ]
 }
