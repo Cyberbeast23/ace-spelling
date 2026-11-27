@@ -900,6 +900,21 @@
         {"word": "antibiotic", "syllables": "an-ti-bi-ot-ic", "definition": "a medicine that kills bacteria or stops them from growing", "sentence": "The doctor gave Grandpa an antibiotic to clear up his infection."},
         {"word": "bioluminescent", "syllables": "bi-o-lu-mi-nes-cent", "definition": "able to make its own light, like fireflies and some fungi", "sentence": "At night, the bioluminescent mushrooms glowed a soft green on the forest floor."}
       ]
+    },
+    {
+      "date": "2026-11-27",
+      "words": [
+        {"word": "testimony", "syllables": "tes-ti-mo-ny", "definition": "a spoken or written statement that tells what a person saw, heard or knows to be true", "sentence": "Inuit testimony helped searchers find the wreck of the Erebus."},
+        {"word": "provisions", "syllables": "pro-vi-sions", "definition": "supplies of food, water and other necessities, especially for a long journey", "sentence": "The two ships carried enough provisions to last three years."},
+        {"word": "scurvy", "syllables": "scur-vy", "definition": "a disease caused by not getting enough vitamin C, which makes gums bleed and the body weak", "sentence": "Without fresh fruit or meat, many sailors in the past suffered from scurvy."},
+        {"word": "circumnavigate", "syllables": "cir-cum-nav-i-gate", "definition": "to travel all the way around something, such as an island or the world, especially by ship", "sentence": "The explorers hoped to circumnavigate the frozen island before winter came."},
+        {"word": "sovereignty", "syllables": "sov-er-eign-ty", "definition": "the full right and power of a country or people to govern a place", "sentence": "Canada's sovereignty over its Arctic waters is an important issue today."},
+        {"word": "commemorate", "syllables": "com-mem-o-rate", "definition": "to honour and remember an important person or event, often with a ceremony or monument", "sentence": "A plaque on Beechey Island was placed to commemorate the lost sailors."},
+        {"word": "inhospitable", "syllables": "in-hos-pi-ta-ble", "definition": "harsh and difficult to live in; not welcoming", "sentence": "To the British sailors, the frozen Arctic seemed inhospitable, but Inuit families had lived there for centuries."},
+        {"word": "wreckage", "syllables": "wreck-age", "definition": "the broken pieces that remain after something has been badly damaged or destroyed", "sentence": "Divers photographed the wreckage resting on the sea floor."},
+        {"word": "perilous", "syllables": "per-il-ous", "definition": "full of danger or risk", "sentence": "Hauling heavy sledges across the sea ice was a perilous journey."},
+        {"word": "desolate", "syllables": "des-o-late", "definition": "empty, bare and lonely, with few or no signs of life", "sentence": "The sailors stared out across the desolate plain of grey ice."}
+      ]
     }
   ]
 }
