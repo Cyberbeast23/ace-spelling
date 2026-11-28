@@ -915,6 +915,21 @@
         {"word": "perilous", "syllables": "per-il-ous", "definition": "full of danger or risk", "sentence": "Hauling heavy sledges across the sea ice was a perilous journey."},
         {"word": "desolate", "syllables": "des-o-late", "definition": "empty, bare and lonely, with few or no signs of life", "sentence": "The sailors stared out across the desolate plain of grey ice."}
       ]
+    },
+    {
+      "date": "2026-11-28",
+      "words": [
+        {"word": "confectionery", "syllables": "con-fec-tion-er-y", "definition": "sweets and candy, such as chocolates, or a shop that makes and sells them", "sentence": "The confectionery on the corner sells hand-dipped chocolate truffles."},
+        {"word": "emulsifier", "syllables": "e-mul-si-fi-er", "definition": "an ingredient that helps two liquids that don't normally mix, like fat and water, blend smoothly together", "sentence": "Many chocolate bars contain a little lecithin, an emulsifier that helps the chocolate flow smoothly."},
+        {"word": "crystalline", "syllables": "crys-tal-line", "definition": "made of crystals, or clear and sparkling like crystal", "sentence": "Tempering gives cocoa butter a neat crystalline structure, so the chocolate snaps and shines."},
+        {"word": "viscosity", "syllables": "vis-cos-i-ty", "definition": "how thick and sticky a liquid is, and how slowly it flows", "sentence": "Warm chocolate has a lower viscosity than cool chocolate, so it pours more easily into the moulds."},
+        {"word": "cultivation", "syllables": "cul-ti-va-tion", "definition": "the growing and caring for plants or crops", "sentence": "The cultivation of cacao began in the rainforests of South America thousands of years ago."},
+        {"word": "aromatic", "syllables": "ar-o-mat-ic", "definition": "having a strong, pleasant smell", "sentence": "The roasting room was filled with an aromatic cloud of toasted cacao."},
+        {"word": "connoisseur", "syllables": "con-nois-seur", "definition": "an expert who knows a lot about something and can judge its quality, such as food or art", "sentence": "A chocolate connoisseur can taste hints of fruit and nuts in a single square."},
+        {"word": "delectable", "syllables": "de-lec-ta-ble", "definition": "extremely delicious or delightful", "sentence": "Dad's delectable hot chocolate disappeared in about two minutes."},
+        {"word": "equatorial", "syllables": "e-qua-to-ri-al", "definition": "near the equator, where the climate is usually hot and rainy", "sentence": "Cacao trees only grow well in equatorial regions such as Ghana, Ecuador and Indonesia."},
+        {"word": "exquisite", "syllables": "ex-qui-site", "definition": "extremely beautiful, delicate or finely made", "sentence": "The chocolatier decorated each truffle with an exquisite gold swirl."}
+      ]
     }
   ]
 }
